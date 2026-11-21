@@ -1,0 +1,766 @@
+[
+  {
+    "name": "Nerof Gasgal",
+    "type": "npc",
+    "folder": "Free City of Greyhawk",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 10
+        },
+        "int": {
+          "value": 11
+        },
+        "wis": {
+          "value": 8
+        },
+        "dex": {
+          "value": 17
+        },
+        "con": {
+          "value": 12
+        },
+        "cha": {
+          "value": 16
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Lawful Neutral",
+        "deity": "",
+        "biography": "<p><em>Lord Mayor-Free City of Greyhawk</em></p><p class=\"gh-stat\">AC 5 (leather armor and dexterity bonus); MV 12&quot;; T 10; hp 45; #AT 1; Dmg by weapon type (proficient with sling, longsword, or dagger); Str 10, Int 11, Wis 8, Dex 17, Con 12, Cha 16; THAC0 8; AL LN; SA quadruple damage from backstab; SD high dexterity, thiefly skills</p><p>Nerof Gasgal was born to desperately poor but proud parents in one of the most squalid districts of the city of Greyhawk. Despite his parents' best efforts to dissuade him, Nerof idolized the Guild thieves. He admired their courage, their skills, and, most of all, their wealth. When his parents tragically starved to death in his tenth year, he decided to change his fate, and sponsored by a family friend who was a Guild official, he apprenticed himself to the Thieves Guild.</p><p>Once he was a full-fledged thief, Nerof advanced rapidly, becoming known for his meticulous planning of every last detail of operations. He believed in leaving absolutely nothing to chance, and would pore over plans and models of a targeted building until he could draw the entire floor plan from memory. His thoroughness and attention to detail endeared him to his superiors and peers, although he became the terror of apprentices and lower level thieves who were assigned to work under him. He did not tolerate slip-ups or errors.</p><p>Then, a traumatic experience caused Gasgal to change careers-and the direction of his life. While looting a mage's long-abandoned castle, he tripped a magical trap and found himself falling down an airshaft. Luckily, the trap was an illusion, but his fellow thieves found him in a catatonic state and returned him to Greyhawk. Clerical help saved him, but he began to suffer severe bouts of vertigo and developed a fear of falling. That incident convinced Gasgal to give up the thieving life and enter politics.</p><p>Nerof was never known publicly as a thief; to the public, he was the proprietor of a gambling house catering to Greyhawk's wealthy youngsters. Despite the fact that the odds on the games blatantly favored the house, Nerof was a popular figure among the newly wealthy. He had long been urged to follow a political career, assured of support by his customers, and when his disability forced him to quit thieving, he took up their offers of political support and was delighted by the opportunities he discovered.</p><p>As mayor, Nerof is popular and well-respected. His attention to detail makes it difficult for anyone not in his favor to cheat or oppress citizens. He is demanding of his staff, but does not spare himself, routinely working twelve-hour days. He takes bribes freely, but his theory is to \"let both sides pay bribes, then judge the case on its merits.\"</p><p>His goals as Mayor of Greyhawk are to make the city run as smoothly as possible and to be remembered as the best Mayor in the city's history. His private goals are different: He wants to be a member of the aristocracy. However, the old rich don't hold him in the same regard as the new rich, and he is snubbed as much as the upper classes dare due to his lower-class accent and the \"vulgar\" origins of his wealth (the gaming house).</p><p>The nobility secretly sneer at him, but no one forgets what happened to one wealthy family so unwise as to shun him publicly: Thieves descended repeatedly upon their house; several family members died mysteriously; and their business competitors exhibited uncanny knowledge of their business plans. This did not stop until the whole family was reduced to beggary.</p><p>Nerof Gasgal is an attractive, charming man, 5'9\" tall, with graying hair. He dresses in conservatively cut, but extremely expensive, clothing. He appears to be a trustworthy, able businessman who is in politics only for the good of his beloved city.</p><p>Nerof's office is equipped with many luxuries: heavy draperies (which conceal the fact that his office is several stories above ground), several attractive secretaries, and a large, elaborate safe in which he keeps all the city files and a wealth of information useful for blackmailing troublemakers against whom he doesn't wish to use force.</p><p>His leather armor is of the finest quality. It was custom made for him by the head of the Leatherworkers Guild after he excused the leatherworkers from paying taxes during a severe shortage of leather. His weapons are also of the best possible quality, stolen especially for him by the Thieves Guild Master as a gift upon his election to office. He also owns a set of thieves' tools, and still regularly practices all the thieves' skills that do not involve climbing. He has access to many magical items, but does not keep many on hand unless he actually needs them. He feels that becoming dependent on a magical tool or weapon would make him too vulnerable. When Nerof does use magical items, he prefers those that facilitate theft without involving flying or climbing. There is a 20% chance of finding such items in his office or safe.</p><p>Outside of politics, Nerof's interests are limited to his gaming house (which he still owns) and the honing of his thieving skills; he has no other real interests. Although he is a social climber, he doesn't find social gatherings very interesting-he attends them for information. He cultivates good relations with the Guildmasters of the city, as all mayors must, but the only one he socializes with is the Thieves Guild Master. They often spend evenings together, drinking wine and yarning about the \"good old days\" before they achieved their present ranks. Nerof is still a power in the Thieves Guild, and holds the title of Assistant Guildmaster.</p><p>Player characters might encounter Nerof Gasgal in several ways. They might be ambassadors from a neighboring land on business with the Lord Mayor of Greyhawk, or they could be lower level thieves seeking his expert advice. If any PC has information regarding an outside threat to Greyhawk, Nerof will pay very well for it. He is also interested in buying anything magical, especially items of use to thieves, like gauntlets of dexterity or chimes of opening.</p><p>If the PCs are enemies of Greyhawk, they will find Nerof to be a deadly enemy. He cultivates close relations with the Assassins Guild Master. There are several assassins on his private payroll, and he has been known to use them to quietly eliminate threats,</p><p class=\"gh-src\">GA p.35. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "thief",
+          "level": 10,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 45,
+        "max": 45
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Derider Fanshen",
+    "type": "npc",
+    "folder": "Free City of Greyhawk",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 13
+        },
+        "int": {
+          "value": 10
+        },
+        "wis": {
+          "value": 17
+        },
+        "dex": {
+          "value": 4
+        },
+        "con": {
+          "value": 16
+        },
+        "cha": {
+          "value": 16
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Neutral Good",
+        "deity": "",
+        "biography": "<p><em>Constable-Free City of Greyhawk</em></p><p class=\"gh-stat\">AC 3 (full plate + shield, dexterity penalty); MV 6&quot; in armor; C 12; hp 58; #AT 1; Dmg by weapon type (flail, mace, staff of striking, staff sling, lasso); Str 13, Int 10, Wis 17, Dex 4, Con 16, Cha 16; THAC0 13; AL NG; SA Spells: 8-1st, 7-2nd, 6-3rd, 3-4th, 2-5th, 2-6th</p><p>Derider Fanshen was born to middle-class parents in the Free City of Greyhawk. From an early age, she was fascinated with healing sick creatures, and innocently annoyed her parents by filling the house with every sick or hurt animal she encountered. Her talent and love for healing caught the attention of the priests of Pelor. They offered to train the young girl in the ways of their deity, the patron of sun, strength, light, and healing. Her parents were overjoyed, not only for the honor shown their daughter, but because they could finally have a normal household.</p><p>As a postulant of Pelor, Derider was quick to learn, rising rapidly to the status of a full (first level) cleric. Upon her investiture, she accepted an offer to join a party of adventurers. Her superiors were sorry to see her go because they loved her, but also were relieved that she was gone-she had won notice not only for her talent, but for her clumsiness, She was always sincerely sorry about her accidents, and she was not capable of malice, but even her most sincere apologies did not repair the mirrors, jars, and other fragile things she constantly dropped. While she was at the temple of Pelor, her superiors seriously considered hiring a low level mage just to minimize breakage.</p><p>Derider's career as an adventurer lasted for several years, during which she travelled the length and breadth of Oerth with her friends. She advanced rapidly, gaining confidence in herself and faith in her deity as she saw the results of her prayers. At the same time, her clumsiness haunted her, causing her grief over the trouble she caused when she was near breakable items. She began to feel that fragile items just waited for her, so that she could drop them to shatter on the floor. Her companions loved her and were very patient with her, but when she managed to drop and smash a beaker of plentiful potions, the day after she had tripped while carrying a decanter of endless water, they suggested gently that perhaps the adventuring life was not for her.</p><p>Back in Greyhawk, Derider learned that the temple of Pelor needed a cleric who specialized in healing. She was taken on immediately, but on the condition that she swear solemnly not to touch anything breakable (the high priest was a former classmate, and he knew of her weakness).</p><p>Settled in at the temple, Derider was quite happy to have a position as a healer. Her adventuring background proved valuable when the temple district was plagued by a band of undead creatures. Her work among the poor of Greyhawk brought her to the attention of the Directing Oligarchy, and when a constable died after being nursed devotedly by Derider, she was offered the post.</p><p>As Constable of the City, she is an influence for mercy and moderation on the part of the city government. She is trusted by the entire Directing Oligarchy to care for them when they are sick or injured. Her clumsiness has not deserted her, but the Directing Oligarchy can afford to be more tolerant of the breakage than the priests of Pelor or her former adventuring companions. When she tripped over her own robe and knocked over a table of very expensive glassware, the Directing Oligarchs simply chuckled quietly and sent for a mage to repair the damage.</p><p>Derider Fanshen is a tall, attractive woman in her early forties, with tan skin, honey-blonde hair, and bright grey eyes. She is in excellent physical condition, and looks considerably younger than her true age. She has never married, preferring to form friendly relationships with the various men important in her life.</p><p>Although she has retired from adventuring, Derider Fanshen keeps her armor in good repair, and exercises daily in armor with her weapons. Her weapons are souvenirs of her adventuring days, and she will happily tell stories about how she obtained them. Her favorite weapon is a staff of striking that also functions as a staff sling +1.</p><p>Derider Fanshen's goal as Constable of Greyhawk is simple: Keep the city safe and secure. Her relatives live in Greyhawk, as well as friends from her adventuring days, and she is quite conscious of her obligation to them. She keeps in touch with old friends and family, and is a popular guest at parties, once the breakables are securely stored away.</p><p>The poor people of Greyhawk often leave petitions at her residence, asking her to intervene for their friends and relatives when they face Greyhawk's justice. She does what she can, and Sental Nurev, Captain-General of the Watch, often has to remind her that his decision alone does not decide a criminal's fate.</p><p>At the same time, she is not a fool. Real evil-doers know better than to ask her to intervene in their cases, since she hates cruelty and wanton malice (having seen too much of both). The only time she shows anger is when flagrant examples of unprovoked evil-doing come to her attention. When she gets angry, the people, as well as the Directing Oligarchy, pay attention. Although she doesn't often use spells for purposes other than healing, she still has the capability, and the anger of a twelfth level cleric is nothing to invite.</p><p>PCs might encounter Derider Fanshen in several ways. They may have business with the Directing Oligarchy of Greyhawk, and she would be present at the deliberations of that body. She has a soft spot in her heart for adventurers, and a party of adventurers with a genuine need for aid from the Directing Oligarchy might find her willing to help them plead their case.</p><p>PCs might also meet her by letting her know that a party member is sick or injured, but cannot pay for clerical assistance. Her adventuring days paid well, and she is now financially secure, which allows her to indulge the same impulses that made her poor parents' life difficult so long ago-healing every stray that crosses her path. She is known to disappear into the slums of Greyhawk for days at a time, healing every sick or injured person she finds.</p><p class=\"gh-src\">GA p.36. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "cleric",
+          "level": 12,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 58,
+        "max": 58
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Sental Nurev",
+    "type": "npc",
+    "folder": "Free City of Greyhawk",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 16
+        },
+        "int": {
+          "value": 12
+        },
+        "wis": {
+          "value": 15
+        },
+        "dex": {
+          "value": 13
+        },
+        "con": {
+          "value": 13
+        },
+        "cha": {
+          "value": 14
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Neutral Good",
+        "deity": "",
+        "biography": "<p><em>Captain-General of the Watch-Free City of Greyhawk</em></p><p class=\"gh-stat\">AC 3 (splint mail and shield); MV 9&quot;; F 13; hp 85; #AT 2/1; Dmg by weapon type (lasso, halberd, man catcher, longsword, bo stick, jo stick, crossbow, club); Str 16, Int 12, Wis 15, Dex 13, Con 13, Cha 14; THAC0 8; AL NG</p><p>Sental Nurev was born near Greyhawk, the child of impoverished, country gentlefolk. At an early age, he decided that the only way out of his poverty was his skill with weapons. A neighbor who had retired from the adventuring life offered Sental and his brother tutelage, and when they became orphaned, they headed for Greyhawk. Sental joined the watch, learning about city life while serving as a policeman/militiaman. His dedication to duty and his natural talents soon earned him promotion, and his utter fearlessness helped him gain skill rapidly. While still in his early thirties, he became Captain of the Watch, and was known to all as a solid, respected citizen.</p><p>Soon after he achieved this success, news came that nearly shattered him. His beloved brother had not joined the watch, preferring to hire out as a caravan guard. The brothers had tried to keep in touch, but Sental had not heard from him in a long time. Then, word reached Sental through trustworthy channels that his brother was a prisoner in one of the Bandit Kingdoms. Shortly after this news arrived, Sental received word that his brother's captors were demanding sensitive information about Greyhawk. If Sental refused to give it to them, his brother would suffer.</p><p>This dilemma caused Sental many sleepless nights. He did not want to endanger Greyhawk and he knew that the information he was asked for could, in enemy hands, jeopardize Greyhawk seriously. On the other hand, he knew that his brother's captors did not make idle threats, and refusal to comply could doom his brother. Faced with this problem, he decided to stall. He sent information, but made absolutely certain that it was always either obsolete, or as harmless as possible.</p><p>This worked until his brother's captors decided to sink their hooks deeper. They informed Sental that if he didn't cooperate more fully, they would tell the authorities of Greyhawk that their trusted Captain was a traitor-and they had hard evidence to back their claim. Sental was forced to give in. As Captain of the Watch, he had authority over who was recruited into the watch, and what duties each watchman was assigned. He was forced to recruit watchmen whose loyalties were with the Bandit Kingdoms, and to juggle work schedules so that these men could spy at will. In the event of an attack, his orders were to place these men in control of a section of wall, to facilitate the besieger's attempts to take that particular section.</p><p>With these false watchmen reporting his actions, Sental could no longer bluff his brother's captors with useless, out-of-date information. He was forced to send the very best information available as quickly as he could get it. He threatened to quit his post once, and received his brother's thumb in a package at his home a few days later. He was painfully aware that if his treachery were discovered, he would at the very least be imprisoned for a long time in Greyhawk's dungeons.</p><p>Sental Nurev is currently a haggard-looking man. He is tall but stooped, with thinning blond hair and a ragged beard and moustache. He chews his moustache when he is worried, and since he has had much to worry about recently, his moustache is well-chewed. Sental is married and has three children, ages 14, 11, and 9. His wife worries a great deal about him; she can see the burden upon him, but can not learn what it is.</p><p>In all matters except those controlled by his unseen masters, Sental Nurev is an excellent Captain-General of the Watch. He is nearly incorruptible (his brother's kidnappers knew this; that is the reason for the kidnapping), fearless, and always under perfect control. His preference for non-lethal weapons such as the lasso or man-catcher is a remnant of his days as an ordinary watchman. He learned that criminals were easier to take in if they came under their own power, rather than needing stretcher-bearers, and then a cleric to heal them before trial. He is not a man who kills needlessly. When possible, he will capture his subject alive and take him to jail. This preference sometimes causes misconceptions; some very foolish people think that, because Sental Nurev prefers not to kill, he will not kill. They are wrong.</p><p>Sental owns a man catcher +3, halberd +1, bo stick of striking (as staff), and a shield with a symbol of hopelessness cast on the front, behind a hinged cover that he can manipulate while using the shield. These items are very useful should a riot occur.</p><p>Sental Nurev is popular, even with thieves and assassins-unlike some of the watchmen, he doesn't feel that lawbreakers exist simply to be killed on a whim. Even the most notorious thief or assassin will be treated as fairly as any other person in Greyhawk, or Sental will demand an explanation. If Sental ever learned of any watchmen extorting bribes from citizens, those responsible would find themselves in a great deal of trouble.</p><p>Player characters could meet Sental Nurev in several ways. If they wish to join the watch of Greyhawk, they will need to prove themselves to Sental. He only accepts prospects who prove to his satisfaction that they are sufficiently skilled and loyal.</p><p>Any PCs who obtain information about the current whereabouts of Sental Nurev's brother will have made a friend for life. Sental has been unable to learn the exact location of his brother in the Bandit Kingdoms. If the PCs provide Sental with information while in Greyhawk, he will go directly to the Assassins Guild Master. Turin Deathstalker is indebted to Sental Nurev and likes him personally, and therefore would be quite willing to attempt to convince the kidnappers that releasing their captive would be in their best interests.</p><p>If the PCs are lawbreakers, they may find themselves dealing with Sental Nurev on a professional level. He will not be amenable to bribe attempts, but will not treat people who attempt to bribe him any worse than he would anyone else.</p><p class=\"gh-src\">GA p.37. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "fighter",
+          "level": 13,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 85,
+        "max": 85
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Org Nenshen",
+    "type": "npc",
+    "folder": "Free City of Greyhawk",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 13
+        },
+        "int": {
+          "value": 15
+        },
+        "wis": {
+          "value": 11
+        },
+        "dex": {
+          "value": 18
+        },
+        "con": {
+          "value": 11
+        },
+        "cha": {
+          "value": 16
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Lawful Neutral",
+        "deity": "",
+        "biography": "<p><em>Thieves Guild Master-Free City of Greyhawk</em></p><p class=\"gh-stat\">AC 1 (elfin chain and dexterity bonus); MV 12&quot;; T 14; hp 50; #AT 1; Dmg by weapon type (sling, short bow, falchion, dagger, sap); Str 13, Int 15, Wis 11, Dex 18, Con 11, Cha 16; THAC0 14; AL LN; SA quintuple damage from backstab; SD high dexterity</p><p>Org Nenshen was a young thief rising within the Thieves Guild at the same time as Nerof Gasgal. The two often worked together. Org was present on that disastrous foray when Nerof fell victim to a mage's magical trap; in fact, it was Org who found Nerof lying motionless with a look of horror on his face. Org helped to pay for the clerical help that restored his friend, and worked tirelessly and secretly to advance Nerof's political career.</p><p>As Org advanced within the Thieves Guild, his name became a byword for reckless confidence and skill. When the reigning Guildmaster died, Org was proclaimed Guildmaster almost unanimously, and the Guild has prospered under his leadership.</p><p>Org is uncertain of his birthplace. His parents died not long after his birth, and the infant Org was adopted by a cousin, Ramin of Greyhawk City. The greedy Ramin soon showed that his intentions in adopting young Org were to live in luxury by forcing the child to steal for him.</p><p>As Ramin should have expected, this activity was noticed by the Thieves Guild. An extremely displeased Guildmaster dispatched several burly thieves to bring Ramin and his young protege to the Guild to answer for their thefts.</p><p>When Ramin finally confessed to the sordid practice, the Guildmaster had to be physically restrained from attacking the would-be master thief. The terrified Ramin was grateful to be turned over to the authorities alive. The thieves then turned their attention to young Org.</p><p>Easily winning the child's confidence, the thieves had no trouble putting little Org through a series of tests that proved to their satisfaction that the child had a natural talent as a thief.</p><p>Thus began the best part of Org's life. As an apprentice of the Thieves Guild, he learned everything he was taught with a zeal that pleased his teachers. He soon proved his usefulness at squeezing into gaps that were too small to admit an adult. Before he was sixteen, Org Nenshen was a first level thief, well-respected by his superiors within the guild and rising quickly through the ranks.</p><p>During this time, Org was forging a friendship with Nerof Gasgal. The two youths were inveterate competitors, but fast friends. They often worked together, with Nerof's calm, methodical methods tempering Org's more flamboyant, exuberant style. As the \"Gruesome Twosome,\" they raked in loot hand over fist from any victim allowed by Guild rules: Those who had not paid for immunity from theft and those of whom the Guild disapproved, were fair game.</p><p>The advancement of Nerof and Org was so steady that some of the Guild members were secretly relieved when Nerof's fear of heights forced him into politics. They had foreseen a bitter quarrel between the friends over the eventual Guildmastership. The Thieves Guild instead became fortunate to have two loyal members in the government of Greyhawk.</p><p>As Guildmaster, Org's goals are to cooperate with the Directing Oligarchy to keep Greyhawk safe. Greyhawk is the only home he has ever known, and he realizes that if the city were to fall, his livelihood would be jeopardized.</p><p>Org Nenshen is a compact, graceful man with blond hair, violet eyes, and tan skin. He always dresses well, and is very proud of his elven chainmail, which was a gift from some gray elves whom he assisted in the recovery of a stolen treasure. He practices daily at the Guild, and is an instructor in all the skills necessary for the most promising young apprentices.</p><p>Org owns a sling +1, a flame tongue falchion, dagger of throwing, a cloak of the bat, a ring of jumping, boots of elvenkind, and his favorite, a chime of opening. These items are the rewards of a lifetime of theft, and, with these treasures, Org is all but unstoppable. He has commissioned a new magic item, thieves' tools of opening, but these have not yet been created.</p><p>Despite his success, Org is secretly very insecure. He can't quite believe that he has risen to such heights and he feels like a fraud. He has always felt this, which is the real reason for his flamboyance. He believes that if people think he is invincible, they will make it so, regardless of his talent (or lack of it). His secret fear of failure drives him on to ever more daring stunts, long after most Guildmasters would be content to rest on their laurels and make a living on the spoils of their underlings.</p><p>In addition to his chronic fear of failure, and his secret feeling of fraudulence, he now has a new worry: old age. Org Nenshen is reaching middle age, and this concerns him. An aging thief often finds his skill and agility declining, and the thought fills Org with terror. Without his thief skills, he truly feels that he would be nothing but a middle-aged fraud. The thought of his time running out haunts him, and he is determined to preserve his skills for as long as he can.</p><p>Org's friends are worried. They know that he is taking ever greater risks, and they also know that he won't always be able to beat the odds. His victims are getting tired of being repeatedly robbed, and are constantly improving their security, with more and more traps, better and newer locks, and various magical defenses. Org has even had to defeat a few lesser guardian daemons, summoned by certain unscrupulous mages to protect their property.</p><p>Chief among those who worry about Org is Mayor Nerof Gasgal, who often bitterly regrets that his vertigo and fear of heights forced him into a political career. He believes that if he were Org's partner again, his cautious nature would sufficiently offset Org's flamboyance, and perhaps prolong his friend's life. Nerof has resigned himself to the fact that he will one day hear that Org finally challenged the odds once too often.</p><p class=\"gh-src\">GA p.38. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "thief",
+          "level": 14,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 50,
+        "max": 50
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Turin Deathstalker",
+    "type": "npc",
+    "folder": "Free City of Greyhawk",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 15
+        },
+        "int": {
+          "value": 14
+        },
+        "wis": {
+          "value": 10
+        },
+        "dex": {
+          "value": 13
+        },
+        "con": {
+          "value": 14
+        },
+        "cha": {
+          "value": 16
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Lawful Evil (strong LN tendencies)",
+        "deity": "",
+        "biography": "<p><em>Assassins Guild Master-Free City of Greyhawk</em></p><p class=\"gh-stat\">AC 5 (elfin chain mail); MV 12&quot;; F 15; hp 79; #AT 1; Dmg by weapon type (bastard sword, long bow, short bow, short sword, dagger, sling); Str 15, Int 14, Wis 10, Dex 13, Con 14, Cha 16; THAC0 6; AL LE (strong LN tendencies)</p><p>Turin Deathstalker, Master of the Guild of Assassins, is a man feared and respected far beyond the the city of Greyhawk. He is possibly the highest-ranking assassin in all Oerth, and exercises informal control over assassins nearly everywhere. Due to other political influences, this control is nominal at best, but no assassin willingly defies Turin Deathstalker's known wishes.</p><p>Turin was born in the Shield Lands, on the border of the Horned Society lands. His father, a low-ranking soldier in the armies of the local ruler, hoped that his son would get an education, but fate intervened. When Turin Birdstalker (his given name) was ten years old, a great force from the Horned Society struck the Shield Lands. Turin was but one of many prisoners who were marched into the lands of the Horned Society. To his knowledge, the rest of his family was killed.</p><p>When the prisoners were divided, Turin found himself the slave of a half-orcish fighter, the chief of an important orc tribe. For the next several years, he was forced to do all manner of foul tasks for the tribe, until his master decided that the youth showed promise, and began tutoring him in the arts of assassination.</p><p>Turin was very bright, and learned quickly. His mentor was pleased and amazed that the young human bore him no grudge for his years of servitude, and he passed along every bit of knowledge he possessed. Turin's first assignment as a full-fledged assassin was the elimination of a hobgoblin, the chief of a rival tribe. He performed the job with relish, since he had heard that hobgoblin soldiers of the Horned Society were responsible for the death of his family.</p><p>Turin seemed to have adapted well to life among the orcs, but he never let his true feelings show-in fact, he hated the orcs. They came to take him for granted, however, and he spent several years with his mentor, absorbing everything the scarred old half-orc could teach him. When he reached the orcish rank of Waghalter, he decided that the time was ripe for his revenge. One fine, sunny day, he systematically assassinated every orc in the tribe, saving his mentor for last. With this pleasant task completed, Turin Deathstalker (as his mentor had renamed him) walked off, with the tribe's wealth over his shoulder, to accept an offer he had received from a high-ranking member of the Horned Society at Molag. Turin Deathstalker never forgets a grudge.</p><p>At Molag, Turin Deathstalker proved to be an excellent weapon for his new patron. He soon learned of intrigue among the leaders of the Horned Society, a society of incredible complexity, laced with betrayal and doublecross. Young Turin gained greatly in skill, eliminating anyone his patron saw as an enemy. He learned the finer points of disguise, poison, and espionage, and when his patron was assassinated, young Turin had already reached the status of Senior Assassin, known to many Guilds as a worthy recruit. Of the Guilds that bid for his service, Turin chose Greyhawk's, and he has resided in the city ever since.</p><p>Turin Deathstalker was a valuable recruit to Greyhawk's Assassins Guild, and he rose swiftly within the Guild. As all members are required, he submitted to an oath against killing another Assassins Guild Member or any person under Guild protection.</p><p>He was soon commissioned by the Directing Oligarchy to undertake several extremely dangerous and delicate missions. When the upper ranks of the Guild were decimated by a mezzodaemon conjured by a mad mage, Turin Deathstalker became Guildmaster.</p><p>As Guildmaster, his goals are to keep the Guild active, attract promising young recruits, provide the best training possible, and to distance the Guild from quarrels with other guilds or powerful groups in Greyhawk. As a member of the Directing Oligarchy, he is the head of Greyhawk's intelligence network, and his knowledge of events in places such as Iuz, the Great Kingdom, and even the Scarlet Brotherhood is unequaled.</p><p>Turin Deathstalker has the appearance of a typical Shield Lander, with olive skin, red-brown hair, and pale grey eyes. He practices his skills regularly. He can disguise himself in a hundred ways, from an orcish soldier to a wise old sage. He has been known to collect magical items to sustain these deceptions. He commonly uses three disguises in Greyhawk, and using them, keeps up three businesses: a locksmith shop, a servant agency, and a pawnshop. These fronts provide numerous services to his Guildsmen, and also provide him with income. He has three mistresses, one for each of his disguises, and none of them suspect his true identity.</p><p>Turin owns a cloak of invisibility, a dagger of venom, a short sword +2 (+5 against humanoids), boots of striding and springing, a ring of regeneration, and a quiver of arrows of humanoid slaying that he commissioned from a mage.</p><p>If Turin Deathstalker has a fault, it is his bitterness. He did not choose to become an assassin, and although assassination has brought him wealth and power, he often wishes that the hobgoblins had killed him with the rest of his family. He sometimes disappears from Greyhawk for days at a time, and returns tired and filthy, but undeniably satisfied. On these expeditions, he takes a one-man carpet of flying to the Pomarj or other humanoid-infested area, and goes on a killing spree. He has slaughtered whole tribes of hobgoblins, goblins, and orcs, and he intends to continue. His guild is unique in Greyhawk, in that half-orcs are excluded from membership.</p><p>Except for his obsession with killing humanoids (a special form of homicidal mania), Turin Deathstalker is not a bad man. He is fond of relaxing with the higher level assassins and talking shop over a mug of mead until the wee hours, or attending to city business with the rest of the Directing Oligarchy. Despite his alignment (which is leaning toward lawful neutral), and his profession, Turin Deathstalker is quite fond of children, and remembers his own days as a helpless slave of the orcs vividly. When cruel treatment of children comes to his attention, he has been known to unleash the Assassins Guild against those responsible. At first, these persons will be warned, but if they do not change their behavior, the assassins will put an end to their cruelty permanently.</p><p class=\"gh-src\">GA p.39. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "fighter",
+          "level": 15,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 79,
+        "max": 79
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Ren o' the Star",
+    "type": "npc",
+    "folder": "Free City of Greyhawk",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 17
+        },
+        "int": {
+          "value": 17
+        },
+        "wis": {
+          "value": 10
+        },
+        "dex": {
+          "value": 17
+        },
+        "con": {
+          "value": 18
+        },
+        "cha": {
+          "value": 16
+        }
+      },
+      "details": {
+        "race": "half-elf",
+        "alignment": "Chaotic Neutral",
+        "deity": "",
+        "biography": "<p><em>Master of the Traders Union-Free City of Greyhawk</em></p><p class=\"gh-stat\">AC 3 (antique bronze plate mail + shield); MV 6&quot;; F/MU 7/7; hp 58; #AT 3/2; Dmg by weapon or spell type (bastard sword, long bow, dagger, mace); Str 17, Int 17, Wis 10, Dex 17, Con 18, Cha 16; THAC0 14; AL CN; SA Spells: 4-1st, 3-2nd, 2-3rd, l-4th; SD as half-elf</p><p>Ren o' the Star was the product of the dalliance between a human merchant's daughter and an elven noble in the Kingdom of Celene. His mother loved him and raised him by herself, with help from her father. When Ren was two years old, his mother married a merchant whom she had known since childhood. The combination of his stepfather's careful training, his father's influence (for he visited his father regularly), and his maternal grandfather's advice, he decided to study the arts of dweomercraft and swordsmanship.</p><p>As Ren o' the Star grew up, he displayed the stigma of his father's noble House: a reddish, star-shaped birthmark on his shoulder (hence, his nickname). His proper name in the human languages is Ren Shan Fitsparaleen, which indicates his illegitimate relationship to the noble elven House of Paraleen. The combined wealth of his father, stepfather, and mother could pay for the best tutors, and young Ren was, like most half-elves, an excellent pupil, combining the best features of his mixed ancestry.</p><p>When he reached maturity, he received an inheritance from his maternal grandfather, which he used to begin a business. He traded furs, ivory, and precious metals—anything that combined high value and low bulk. If offered something bulky at an irresistible price, he would buy it, but the bother of transportation and security in getting bulky goods to a profitable market made him hesitant to accept such items.</p><p>He soon realized that the hub of mercantile activity on Oerth was the city of Greyhawk. After accumulating a respectable amount of wealth, he moved there and joined the Traders Union. His knowledge of various parts of Greyhawk and his connections in human and elven communities made him a valuable recruit for the Union. Soon he was a wealthy, respected trader, investing his wealth in more and more trading ventures across Oerth.</p><p>His success was not without problems, however. There were various envious people who resented the \"halfbreed's\" success. Their actions against Ren varied, from Magical scrying methods to learn his business plans, to actual assassination attempts. There were even attempts to bribe bandits and humanoids to attack his caravans. Whenever Ren found out who was behind these attempts, he retaliated. After a while, surviving enemies began spreading the word that he was not an easy mark. Eventually, Ren was chosen as a Master of the Traders Union, fulfilling one of his life's ambitions.</p><p>Ren o' the Star is a half-elf, and takes strongly after his elven father. He is 5'9\" tall, with black hair, upswept eyebrows, pointed ears, and a thick moustache.</p><p>He has a set of antique bronze plate mail of which he is very proud. This armor was given to him by a tribe of barbarians who found it while looting an ancient ruin. It was a great day for him when he persuaded them that, in exchange for the armor, he would present them with a wonderful horse. The horse was a magnificent beast. He had made certain of that, when he polymorphed it from a monkey a few hours earlier. When the barbarians found the horse missing, they naturally checked Ren's camp, but no one made the connection between the little monkey sitting so innocently on Ren's shoulder and the missing steed.</p><p>In addition to his armor, Ren owns a wand of lightning which he won in a dice game, gauntlets of swimming and climbing, a necklace of adaptation, and a folding boat. His collection of magical weapons includes a longbow of speed, bastard sword of sharpness, and a cursed sword +1 that he sometimes sells to raise cash, knowing that it will return. The bastard sword of sharpness has an intelligence of 14, an alignment of chaotic neutral, detects precious metals and gems, and argues constantly with Ren. \"Some people are hen-pecked,' Ren will moan, \"but I'm sword-pecked!\" His old trading associates are used to seeing him walking along, arguing with his sword.</p><p>Ren's main weakness is gambling. In the old days, when he was a trader crossing half of Oerth, he was able to satisfy his taste for risk easily, and make a profit. He gambled then, but it was mostly minor dice games with his trading associates. He kept his losses well within what he could afford.</p><p>With little to entertain him in Greyhawk except counting his gold, he has let his taste for gambling overpower him. He spends endless time in Nerof Gasgal's gambling house, as well as others. He bets on horse races, on elections, and his friends have been amazed to see him seriously trying to make wagers on which of a pair of flies will take off first.</p><p>Possibly Ren o' the Star feels that he is too wealthy to be hurt by his losses. This is not exactly true. He is rich, but he is not infinitely wealthy, and already he has run through an incredible amount of money. His friends have tried warning him, but he brushes off their warnings. Nerof Gasgal and other proprietors of gambling houses love him, since his wealth is funneling rapidly into their pockets.</p><p class=\"gh-src\">GA p.40. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "fighter",
+          "level": 7,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        },
+        {
+          "key": "magicuser",
+          "level": 7,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 58,
+        "max": 58
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Jaran Krimeeah",
+    "type": "npc",
+    "folder": "Valley of the Mage",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 8
+        },
+        "int": {
+          "value": 19
+        },
+        "wis": {
+          "value": 9
+        },
+        "dex": {
+          "value": 17
+        },
+        "con": {
+          "value": 15
+        },
+        "cha": {
+          "value": 13
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Neutral Evil",
+        "deity": "",
+        "biography": "<p><em>The Mage of the Vale, the Exalted Mage, the Black One-Valley of the Mage</em></p><p class=\"gh-stat\">AC 2 (bracers of defense, AC 2); MV 12&quot;; MU 19; hp 55; #AT 1; Dmg by weapon or spell type; Str 8, Int 19, Wis 9, Dex 17, Con 15, Cha 13; THAC0 13; AL NE; SA spells; SD spells, high Intelligence; 5-1st, 5-2nd, 5-3rd, 5-4th, 5-5th, 3-6th, 37th, 3-8th, l-9th</p><p>The Laird of the Valley of the Mage is a mysterious figure to the outside world. Few have spoken with him, and of those, fewer still have lived to tell of it. The tales of alleged eyewitnesses do not even agree about such things as the Mage's appearance or manner of speaking, so it is obvious that either people are lying or the Mage uses spells to disguise his appearance at least some of the time.</p><p>The Laird of the Valley of the Mage was born far from the Valley he has made his own, in the capital of the Great Kingdom. Jaran Krimeeah, as he was known then, was a relative of the Great King, and was given the best magical training the Kingdom could afford.</p><p>As he rapidly gained magical skill, and felt his powers increase, he became dissatisfied with his life. He asked himself why his cousin, who could not even cast one first level spell, should be King of the Great Kingdom. Jaran viewed mages as the elite of humanity, with wonderful powers, which should predestine them to rule everywhere.</p><p>Accordingly, the young mage gathered his forces and attempted a coup d'etat. Unfortunately for Jaran Krimeeah, his skill with magic far exceeded his skill at palace politics. The commanders he suborned had, it turned out, little real authority, and when they tried ordering the troops they supposedly commanded, the soldiers queried the orders to higher authority, and were told not to obey them. The whole misbegotten enterprise died almost as soon as it began.</p><p>The royal family did not execute Jaran Krimeeah. Instead, they exiled Jaran, forcing him to submit to an oath never to reveal his relationship with the royal family, and never to return or involve himself in the Great Kingdom again.</p><p>Forced out into a hard world, Jaran Krimeeah (or the Black One, as he then called himself) easily found employment in the Bandit Kingdoms, casting spells for the uncouth rulers of that region. He began to believe that agents of the Great Kingdom pursued him, became obsessed with magical defenses against unseen enemies, and left his position to devote himself exclusively to magical research.</p><p>He traveled through the Shield Lands, the lands of the Horned Society, Furyondy, Veluna, Keoland, the Yeomanry, and Sterich, always searching for more spells and magical knowledge. Finally, in the Grand Duchy of Geoff, he found the hidden valley that he now rules. \"Here,\" he said to himself, \"is what I've been looking for. A safe, secure, hidden base, easily defended and not claimed by anybody who cares about it. If I take this place over, I'll finally be able to pursue my research in peace!\"</p><p>He quickly ingratiated himself with the valley elves and with the local gnomes. When he finally suggested, as delicately as he could, that perhaps he would be a better overlord than the distant, uncaring Grand Duke of Geoff, they proclaimed him their Laird unanimously.</p><p>With the enthusiastic help of the elves and gnomes, the Mage of the Valley fortified the entrance to the valley heavily, both physically and magically. Secure at last, he devoted himself almost completely to his magical research, letting the elves and gnomes run their own affairs. He only handled problems that they could not.</p><p>The Mage of the Valley is a tall, thin man with kinky brown hair, pale olive skin, and slate-colored eyes. He is only interested in his magical research and in new spells, and tends to treat non-spellcasters as mentally deficient. He is so convinced of the superiority of spellcasters (particularly mages, of course) that he will not even use a weapon. He scorns daggers, darts, and non-magical staves as unworthy of mages.</p><p>His obsession with magic has led him into some very dangerous situations. Whenever he hears of a spellbook with a spell he does not yet know, he will go to almost any length for it, even if it means teleporting into a ruined city to fight a lich.</p><p>He is so completely consumed with desire to use magic that he is even preparing to foil death, though not as a lich. He considers any sort of undead status as unworthy of a mage. Instead, he plans to work until he feels his physical body begin to seriously deteriorate, and then become a shade by infusing his body with shadowstuff from the Plane of Shadow. As a shade, he knows that he would never rise in level, but the ability to stay alive for centuries and do more magical research makes that a small price to pay, particularly since he intends to be 24th level by that time.</p><p>The Mage owns dozens of spellbooks, and a great load of magical items. Among others, he has rings of feather falling, spell turning, spell storing, and wizardry. He has a staff of the magi, a wand of fire, a wand of frost, a book of infinite spells, a cloak of displacement, a special deck of many things with no good cards at all (\"Pick a card-any card!\"), a gem of seeing, a mirror of life trapping, and a hat of disguise. These are only the items he is known to have, and there are probably many more he hasn't revealed.</p><p>The Mage of the Valley is obsessed with agents of the Great Kingdom. In fact, he considers any outsiders in his Valley to be potential agents of the Great Kingdom, on a mission to harm him. Hence, his fixation on defenses and his desire to be a shade. He maintains a large network of assassins, mostly valley elves passing as humans, in the countries outside his valley. They carry out various tasks, such as searching for old enemies, but their main task is the endless search for agents of the Great Kingdom. If the Mage were convinced that no such agents existed, he would be devastated.</p><p class=\"gh-src\">GA p.42. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "magicuser",
+          "level": 19,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 55,
+        "max": 55
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Tysiln San",
+    "type": "npc",
+    "folder": "Valley of the Mage",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 12
+        },
+        "int": {
+          "value": 20
+        },
+        "wis": {
+          "value": 9
+        },
+        "dex": {
+          "value": 13
+        },
+        "con": {
+          "value": 17
+        },
+        "cha": {
+          "value": 13
+        }
+      },
+      "details": {
+        "race": "elf-dark",
+        "alignment": "Chaotic Neutral",
+        "deity": "",
+        "biography": "<p><em>First Protector-Valley of the Mage</em></p><p class=\"gh-stat\">AC 4 (bracers of defense, AC 4); MV 12&quot;; MU 8; hp 35; #AT 1; Dmg by weapon type (staff of striking, dagger); Str 12, Int 20, Wis 9, Dex 13, Con 17, Cha 13; THAC0 19; AL CN; SA as female dark elf, Spells: 4-1st, 3-2nd, 3-3rd, 2-4th, l-5th, and special; SD as female dark elf.</p><p>Tysiln San was born in the Vault of the Drow, to a family of merchants. She was trained in magic use by her family, and expected to spend her life with them. She was unflinchingly loyal to her kinfolk, and when they began planning to overthrow the priestesses of Lolth, she gave them her full cooperation.</p><p>Unfortunately, her family's plan failed, and the attempted rebellion was crushed almost before it started. Fleeing for her life, Tysiln San met a human mage who had come to the Vault of the Drow on magical business. She threw herself on his mercy, and he agreed to take her back to the surface with him.</p><p>Once she was on the surface, Tysiln San found herself in a world for which her training had not prepared her. For several weeks, she had agoraphobia (fear of large open spaces), and refused to go out-of-doors. The mage managed to overcome her fears, and gave her a pair of magical lenses. The lenses were fashioned by a master mirror maker so that the wearer could see through them, but the lenses resembled mirrors from the outside. Before he gave them to her, he cast glassteel on them to make them almost unbreakable.</p><p>With the new lenses, Tysiln San could function in bright sunlight as well as she could in darkness. For several years she assisted the mage in his magical experiments, until one of the experiments went seriously wrong. The mage tried to create a variation of the gate spell, and thought he had succeeded. His first experiment was an attempt to gate in a heirarch modron. He got a frog-like death slaad instead, who promptly killed him and tried to kill Tysiln San. Only her dark-elf ability to levitate saved her.</p><p>Alone on the surface for the first time, Tysiln San wandered for several years. She settled into a halfling community, casting spells such as mend in return for her food and shelter. When she left there, she wandered through many lands until she was caught wandering through the Dim Forest by a patrol of Valley Elves.</p><p>Taken before the Mage of the Valley by his faithful guardians, the female dark elf found herself falling insanely in love. At this time, the Mage was still consolidating his power in the valley, and the sudden appearance of a skilled mage who idolized him was like a gift from the gods. After determining that Tysiln San was indeed loyal to him, the Mage gave her freedom, on condition she pass a series of tests. These tests placed her in greater and greater danger, but she passed them all, and became the mistress of the Mage at the same time that she became his most trusted servant.</p><p>Tysiln San is an exquisitely beautiful dark elven female, with long, straight, white hair, white upswept eyebrows, huge yellow eyes, delicate features, and black skin. She is quite aware of her beauty, and is perfectly willing to exploit it, or anything else she has, in the service of the Mage of the Valley. To her, the Mage decides right and wrong. She is completely loyal to him and madly in love with him. She realizes that the Mage is perfectly capable of sacrificing her in order to fulfill his own ends, but this does not bother her. She looks forward to the day he becomes a shade, since she feels that his only flaws are his pale skin and his short human lifespan.</p><p>Tysiln San owns, besides her mirrored lenses, a pair of elven boots, a cloak of arachnidia (a souvenir of her family's attempt to overthrow Lolth's priestesses), a bag of holding, a wand of lightning, a ring of elemental command, and a staff of striking.</p><p>She has complete access to her lover's spellbooks, as well as her former master's collection of spellbooks. Having learned from her former master's demise, she has a set of scrolls of protection, including those against demons, devils, lycanthropes, snakes, and undead.</p><p>At the present time, Tysiln San is the First Protector of the Valley of the Mage. She begged her lover for a responsible post, and he gave her the task of supervising the guards of his Valley, thereby ensuring the area's safety. She took the post with joy, and set to work to try to make the Valley impregnable to all enemies.</p><p>Taking command of the gnomes and valley elves who normally guarded the entrance, Tysiln San went to work with an intensity that astonished the Mage. She created inviting-looking paths, studding them with many subtle but dangerous traps. She created paths that seemed impassable, but which led right into the Valley, and secret hiding-places where gnomish and valley elf assassins could watch the paths, and ambush any intruders. When she was done, she had hardly altered the entrance to the Valley, but she had ensured that any enemy would be warned away (by magic mouth spells placed in unexpected and creative spots), scared off by illusions placed by gnomish spell casters, or killed if they persisted.</p><p>Her own post is at the narrowest part of the entrance to the Valley, and is heavily fortified. If anyone gets that far, a huge statue standing nearby will announce (by magic mouth): \"Stop at the station and state your business!\" This statue is designed to look like a stone golem, and gnomish spellcasters will make it appear to move to further the impression that it is a golem.</p><p>When meeting Tysiln San in the Valley, intruders will be quizzed by her, to determine if they have valid reasons to be there. The more dissatisfied she is with their answers, the more flirtatious she will be, to distract them. Meanwhile, a real and invisible stone golem awaits her signal to squash the intruders. Tysiln San will use her female drow abilities of clairvoyance, detect lie, know alignment, and suggestion to determine intruders' business. If she is satisfied that the intruders are on legitimate business, she will guide them through the entrance, past the traps.</p><p class=\"gh-src\">GA p.43. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "magicuser",
+          "level": 8,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 35,
+        "max": 35
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Korenth Zan",
+    "type": "npc",
+    "folder": "Scarlet Brotherhood",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 17
+        },
+        "int": {
+          "value": 11
+        },
+        "wis": {
+          "value": 16
+        },
+        "dex": {
+          "value": 17
+        },
+        "con": {
+          "value": 18
+        },
+        "cha": {
+          "value": 13
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Lawful Evil",
+        "deity": "",
+        "biography": "<p><em>The Father of Obedience-The Scarlet Brotherhood</em></p><p class=\"gh-stat\">AC -2; MV 30&quot;; MK 16; hp 60; #AT 4/1; Dmg 5-30 or by weapon type + 8; Str 17, Int 11, Wis 16, Dex 17, Con 18, Cha 13; THAC0 10; AL LE; SA as 16th level monk; SD as 16th level monk.</p><p>Korenth Zan was born among the Scarlet Brotherhood, the product of a program of selective breeding initiated by the first Father of Obedience. His father was an evil fighter in the service of the Brotherhood, and his mother was an assassin. He knew his parents, but since he was raised by the Brotherhood, and his parents were both killed in action against the enemies of the Brotherhood, he regards the Brotherhood as his true family.</p><p>At an early age, he was tested repeatedly, to find his true strengths. He was eventually determined to have the qualities needed to become a monk, and was accordingly selected for monkish training. For the next fifteen years he trained intensively, learning the beliefs of the Scarlet Brotherhood as well as the monkish skills. In his youth, he was known to be the leader in all sorts of childish mischief, such as midnight raids on the pantries, as well as vandalism against the residences of unpopular teachers. This pleased the trainers, and they decided that the boy showed marked leadership qualities of the sort that the Brotherhood needed.</p><p>When he had completed his training, Korenth Zan was sent into the world with a party of assorted Brotherhood Servants, to gather treasure for their leaders and foil the enemies of their order. For several years, the evil adventurers traveled, slaying good creatures for their treasures, aiding allies of the Brotherhood, and gaining much experience of the world outside the Brotherhood's stronghold. Korenth Zan soon became the leader of his group, and his cunning saved his party many times. He rose rapidly through the ranks of monks, and used his martial arts to defeat a host of foes.</p><p>When the surviving adventurers had reached about tenth level, they came back to the Brotherhood, laden with gifts and information. With their knowledge of the outside world, their advice was in demand, and all of Korenth Zan's former companions were soon high in the councils of the Brotherhood.</p><p>Korenth Zan himself returned to the monastery, and concentrated on rising higher than the rest. He fought and defeated challengers as necessary to gain rank, or defend it, until he became a Master of Spring. He also found himself elevated through the ranks of the Scarlet Brotherhood to become the Father of Obedience.</p><p>Korenth Zan is an average-sized man, with a shaved head (required by his order of monks), pale skin, and black eyes. He is completely loyal to the Brotherhood, and works ceaselessly to advance its goals in the world. He spends much time overseeing the activities of the Scarlet Brotherhood, and almost all the rest of his time training new monks and keeping himself in training.</p><p>At lower levels Korenth Zan used various weapons, and became proficient with the hand axe, bo stick, club, crossbow, dagger, javelin, jo stick, spear, and falchion. He still practices daily with each of these weapons to set a good example to his trainees, but in actual combat he scorns weapons. He owns a club +5, a crossbow of accuracy +3,a ring of invisibility, and a ring of marid summoning.</p><p>As Father of Obedience of the Scarlet Brotherhood, Korenth Zan is suspicious of his subordinates. He tends to suspect them of ambition, and of plotting to replace him. Some secretly believe that his mental state is deteriorating, and that he will slip into paranoid insanity. His subordinates are still loyal to him, but his accusations of treason, usually followed by swift execution of the \"traitors,\" are shaking their loyalty. Eventually, the imaginary traitors will actually exist, and he will have sealed his own fate.</p><p>Korenth Zan is an excellent administrator, when he isn't traitor-hunting. He checks his subordinates' work so often that they dare not dawdle or make avoidable mistakes. In fact, many of the \"traitors\" Korenth Zan thinks he has caught were only ordinary subordinates who had erred in some way.</p><p>Korenth Zan's list of actual and potential enemies includes all those not of the Scarlet Brotherhood. In his years outside the Brotherhood's stronghold, he heard enough bad opinions of the Brotherhood to thoroughly confirm to him that those outside of the Brotherhood were plotting against it. In many cases, he is right. There are plots enough against the Brotherhood, but mostly because the Brotherhood is seen as a major danger to all of Oerth.</p><p>Korenth Zan is unmarried, but has fathered several children through a selective breeding program. Since no member of the Brotherhood is permitted to have children in any other way, he accepts this as normal, and would be very surprised if anybody told him that this was wrong. He has been known to sneer at outsiders who dared to criticize it, \"You of the outside take more care breeding dogs than you do in breeding your own descendants! And then you wonder why we of the Brotherhood are so powerful!\" His children include an evil 3rd level fighter, an assassin, and two monks. He is enormously proud of his progeny, but does not show it in public; this is contrary to Scarlet Brotherhood principle, and he is always a stickler for principle.</p><p>Currently, he has a mistress who is an evil mage in the service of the Brotherhood. She knows that using her spells on any high-ranking official, much less the Father of Obedience himself, would result in her unpleasant demise, so she uses only high comeliness and charisma to keep her lover's affections. Since Korenth Zan, along with all other monks, is of Lawful alignment, he does not believe in random promiscuity.</p><p>As long as Korenth Zan manages to avoid falling into paranoia, he will continue to lead the Scarlet Brotherhood.</p><p class=\"gh-src\">GA p.44. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "monk",
+          "level": 16,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 60,
+        "max": 60
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Alesh Marin",
+    "type": "npc",
+    "folder": "Scarlet Brotherhood",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 15
+        },
+        "int": {
+          "value": 10
+        },
+        "wis": {
+          "value": 17
+        },
+        "dex": {
+          "value": 18
+        },
+        "con": {
+          "value": 18
+        },
+        "cha": {
+          "value": 9
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Lawful Evil",
+        "deity": "",
+        "biography": "<p><em>Member, First Order-The Scarlet Brotherhood</em></p><p class=\"gh-stat\">AC 6; MV 20&quot;; MK 6; hp 32; #AT 1 or 3/2; Dmg 2-8 or by weapon type + 3; Str 15, Int 10, Wis 17, Dex 18, Con 18, Cha 9; THAC0 18; AL LE; SA as 6th level monk; SD as 6th level monk.</p><p>Alesh Marin is a product of the Scarlet Brotherhood's breeding program, the child of two high level monks. Her testing, like Korenth Zan's, indicated that she had the abilities to be a monk, so she was accepted for monk training in the Scarlet Brotherhood's training center.</p><p>At the center, Alesh's record was competent, but undistinguished. Her training period ended recently, and she was sent out, as is the custom, with a group of assorted young people from the Brotherhood, to prove herself. The Brotherhood feels that knowledge of the outside world and the chance of bringing back treasure is well worth the high risk that many of these young people will not return.</p><p>At this time, Alesh is in Stoink, in the Bandit Kingdoms, where she is an inn-keeper's mistress. She is the sole survivor of her original adventuring group, and has several powerful magical items. Her preferred method of operations is to entice a wealthy-looking adventurer into allowing her to accompany his party, then wait for a chance to filch any treasure she can carry.</p><p>She is determined to rise in power, and has dreams of someday being the first female \"Father\" of Obedience of the Scarlet Brotherhood. When she is not adventuring, she practices and trains in her inn room, or works as a barmaid/bouncer in the inn's common room. She will remain in the inn, as the inn-keeper's mistress as long as she thinks he has the big chest of gold he's always bragging about, or as long as he can continue to convince her that the mythical chest really exists.</p><p>Alesh Marin is a slender woman with short, blonde hair, blue eyes, and white skin. Her success as a bouncer is partly because the bullies who drink in Stoink do not want to be seen being thrown through the window or door by a woman. She rose to the coveted position of head barmaid by framing the previous head barmaid. When \"evidence\" came to light that the previous head barmaid was skimming money from the till, she was fired and Alesh got the job. Unfortunately, Alesh was not aware that the former head barmaid was a sister of the Guild Master of Assassins of the city of Stoink. When the Guildmaster learned of his sister's dismissal, and found out the reasons for it, he became rather irate. He has figured out that Alesh is a monk and a member of the Scarlet Brotherhood, but will not seek his revenge until he can think of a suitably hideous method.</p><p>Alesh's main weakness is that she is an incurable schemer and intriguer. If given a choice between a simple solution and a complicated, sneaky plan that involves stabbing some of her \"friends\" in the back, she'll take the second way every time. Alesh does this because she enjoys it and she studies ways to improve her technique. Once, she was the mistress of an assassin, until she learned all that he could teach her of poison, whereupon she promptly poisoned him and absconded with his belongings. She regards other people as objects, fulfillers of her desires, or obstacles that must be removed so that she can continue to advance.</p><p>She isn't always able to keep this attitude out of her speech and behavior, hence her relatively low charisma score. Most people who are not blinded by her beauty distrust her, and treat her as they would a poisonous snake. She is suspected, correctly, of being responsible for the deaths of her companions. Rumor of this has reached the Scarlet Brotherhood, and her superiors plan to harness her desire to succeed for their own uses.</p><p>Her ambitions are fueled by the magic items she owns: a ring of three wishes, a stone of good luck, and a clear spindle ioun stone (which can sustain her without food or water). Her collection of weapons includes a dagger of venom and a bardiche +2. She has expanded the knowledge of poisons that her late lover, the assassin, gave her, until she is as adept with poison as an alchemist or high level assassin.</p><p>She is in contact with the Scarlet Brotherhood through a low level fighter in the Stoink area who is in command of the Brotherhood's intelligence network for that region. She sends in regular reports to the headquarters of the Brotherhood, making sure that she always sounds like a willing tool in the hands of her leaders. However, the only kind of leader that would please her is herself. She does not know that the fighter who transmits her reports sends reports on her from other sources, and adds his own information. Thus, she is unaware that the leaders of the Brotherhood know of her deviance.</p><p>Alesh Marin's ultimate ambitions range far beyond becoming the first female 'Father' of Obedience. She is convinced that she would make a far better leader of Oerth than the current ruling body, and plans to use her hoped-for position as leader of the Scarlet Brotherhood to extend her rule over more lands. Eventually, she thinks that she could extend the Scarlet Brotherhood breeding program to produce a perfect race, combining alleged Suelese superiority with the undeniable numbers of the other races.</p><p>Alesh Marin is a grim, driven woman who seldom smiles unless she's committed some treachery that particularly amuses her. The last time she smiled, she had just enticed a man who was carrying money into embracing her, so that she could draw her dagger of venom and stab him in the back.</p><p>She is utterly despicable, and will never voluntarily change. She likes being evil, and prefers it to being good because she feels that only evil provides suitable scope for a person of her particular talents to shine. She will pretend to be good if she can get something out of the deception, but as soon as she has what she wants, she will show her true colors. She hates all of her superiors, even if they've done her good turns, simply because they have what she wants.</p><p class=\"gh-src\">GA p.45. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "monk",
+          "level": 6,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 32,
+        "max": 32
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Karll of Urnst",
+    "type": "npc",
+    "folder": "Scarlet Brotherhood",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 16
+        },
+        "int": {
+          "value": 14
+        },
+        "wis": {
+          "value": 14
+        },
+        "dex": {
+          "value": 14
+        },
+        "con": {
+          "value": 17
+        },
+        "cha": {
+          "value": 17
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Chaotic Good",
+        "deity": "",
+        "biography": "<p><em>Duke-Duchy of Urnst</em></p><p class=\"gh-stat\">AC -5 (full plate armor +4 and shield +1); MV 6&quot;; R 12; hp 71; #AT 3/2; Dmg by weapon type (specialized with longbow; proficient with two-handed sword, halberd, long sword, dagger, battle axe); Str 16, Int 14, Wis 14, Dex 14, Con 17, Cha 17; THAC0 10; AL CG; SA spells, as 12th level ranger</p><p>Karll of Urnst was the youngest of six children of the last Duke and Duchess of Urnst. Even in his early years, he showed a liking for the outdoor life. Since he was not expected to succeed to the chair of the duchy, his parents were thrilled and pleased when a family friend offered to have their youngest son trained in the ways of the rangers. Karll himself was so eager to go that he was packed almost before his parents finished giving him the news.</p><p>The Duchy boasts of the only ranger training school in the world, and young Karll became its best pupil. Here, Karll shone. He learned everything about tracking and fighting giant-class creatures very quickly, and was made a Runner at 21, the earliest possible age.</p><p>For the next couple of decades young Lord Karll (a courtesy title derived from his father) lived in a world of utter bliss. He easily absorbed his mentors' teachings about the need to crusade endlessly against evil in all its forms, particularly if the evil involved giants and humanoids. His chaotic good nature made him an individualist, and he would often plunge off into the wilderness by himself for months at a time, emerging tired, dusty, and travel-stained, with a string of fresh trophies to show his peers and a few words of news for his superiors.</p><p>Meanwhile, in the Duchy, things were not going well for his family. Karll's oldest brothers were killed in a border war with desert nomad raiders, and his two sisters were assassinated by unknown enemies (a neighboring lord who had been turned down for both of their hands in marriage was suspected). When Karll's last surviving brother ascended the chair to become Duke at the death of their father, he was suffering from the effects of wounds and did not have long to live. Accordingly, much to his surprise and displeasure, Karll was recalled from his work with the rangers and groomed for the Ducal chair, since he was the only heir.</p><p>When his brother died, Karll became heir to the duchy, but he was unhappy about the whole thing. He had never expected to become Duke, had no training for the job, and was not thrilled about giving up the carefree life of the forests. He almost had to be dragged home, and only a direct command from his ranger superiors prevented him from resigning his title and returning to the woods.</p><p>Karll decided to make the best of his new position. He introduced many improvements in the army, including better armament, armor, and training. He imported many rangers to train the army, and did a great deal of training himself, passing along his knowledge of woodcraft and tracking.</p><p>He is concerned about his duchy, mainly because it serves him in his never-ending war against evil. He is impatient with the daily necessities of government, and has become a magnet for unscrupulous persons. He naively thinks that other people mean as well as he does, and since he has received no training in the arts of rulership, he has managed to surround himself with the greatest crowd of thieves outside of the Bandit Kingdoms.</p><p>As a result of all this, the Duchy is not well-ruled. The verdicts in the courts go to those who offer the biggest bribes to the judges, the peasants are taxed and cheated, and their daughters are dragged off at the whim of anybody in authority. The peasants blame the Duke's corrupt advisers, not the Duke himself.</p><p>Petitioners who try to advise the Duke about actual living conditions in his land find themselves menaced by mysterious bandits, and the duchy has seen the assassination of persistent protesters. If the Duke were not so obsessed with his crusade against evil and giant-class creatures, he would probably notice this and do something drastic about it, but he is deliberately kept in ignorance by the corrupt advisors around him.</p><p>Duke Karll is a tall, strong, handsome man tanned from a lifetime outdoors. His hair is brown, his eyes an icy green. He specialized in the bow early in his ranger career, and owns a long bow +4 and a quiver of arrows of slaying evil beings. He is immensely proud of two family heirlooms: a suit of full plate armor +4 and shield +1. He also owns a flame tongue two-handed sword, a cloak of displacement that he took from an evil mage's corpse, a ring of regeneration, and gauntlets of ogre power.</p><p>Duke Karll values magic items in direct proportion to their value in combatting evil, and would cheerfully trade the crown, orb, or sceptre of his office if he could obtain a magic item designed specifically to kill evil humanoids and giants. He also owns a fairly complete set of spellbooks, but does not have much need for them, except for relearning the spells he knows.</p><p>Duke Karll's ultimate goal is to launch a grand crusade against evil, particularly that associated with the evil giants and humanoids. He is a reasonable man on most subjects, but if told that this is impossible or undesirable, he will fly into a wild rage. Even though many functions of government require his presence, he still disappears into the forests for days at a time, hunting evil humanoids and giants.</p><p>Duke Karll does not understand that behavior desirable in a ranger is not necessarily good in a ruler. He sees the Duchy as a base for his crusade against evil, and cannot be convinced that his duties as Duke supersede his duties as a ranger. His subjects like him, but they know he would sacrifice them if it were necessary to protect some greater number from evil. Not surprisingly, they resent this attitude. Unless conditions change, Duke Karll] is doomed. At his ministers' insistence, he is seeking a wife, but cannot understand why neighboring potentates seem reluctant to entrust their daughters to him.</p><p class=\"gh-src\">GA p.46. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "ranger",
+          "level": 12,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 71,
+        "max": 71
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Tang the Horrific",
+    "type": "npc",
+    "folder": "Elsewhere on Oerth",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 16
+        },
+        "int": {
+          "value": 12
+        },
+        "wis": {
+          "value": 8
+        },
+        "dex": {
+          "value": 15
+        },
+        "con": {
+          "value": 16
+        },
+        "cha": {
+          "value": 13
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Chaotic Neutral",
+        "deity": "",
+        "biography": "<p><em>Prince of the Clan-Dry Steppes</em></p><p class=\"gh-stat\">AC 6 (padded armor, shield, and dexterity bonus); MV 12&quot;; F 12; hp 80; #AT 3/2; Dmg by weapon type; Str 16, Int 12, Wis 8, Dex 15, Con 16, Cha 13; THAC0 10; AL CN</p><p>Tang the Horrific, Tarkhan of the Purple Eagle Tribe, was born in a yurt on the Dry Steppes. He had a normal Dry Steppes boyhood, learning to ride at a very early age, shooting the bow, hunting, and raiding neighboring tribes. Unlike other nomad boys, young Tang was restless. He wanted to see the wonders of the rest of Oerth, if only to inspire his people to descend on the sedentary peoples and conquer them. His father, the Khakhan of their tribe, gave his son his blessing, allowing him to spend time traveling among the nations of settled folk. He gave his son a one-man yurt and a bactrian camel, as well as a string of strong nomad ponies.</p><p>Since then, Tang the Horrific (a nickname given him by the first civilized folk he met) has roamed over Oerth, making a living as a mercenary. He still refuses to live indoors, pitching his yurt where he can. He has served many masters, both good and evil. For a while, the young nomad was in charge of training the cavalry of several of the local lords of the Shield Lands, as well as serving masters in places as varied as Iuz, the Great Kingdom, Greyhawk, Furyondy, and Tenh. When he was \"between jobs,\" he would accompany bands of bold adventurers on raids.</p><p>Currently, Tang is between jobs, and is living on his savings. His yurt is pitched in the Shield Lands, and he soon expects some local lord, dissatisfied with the state of his light cavalry, to contact him to arrange for training. Meanwhile, he relaxes in the way he loves best, riding his pony, practicing his archery and scimitar work, and learning new woodslore. .</p><p>Tang is skilled in the use of the knife, spear, hand axe, scimitar, short bow, horseman's flail, spiked buckler, light lance, dagger, and javelin. He has the barbaric skills of his people: cliff climbing, hiding in natural surroundings, surprise, back protection, leaping and springing, illusion and aN magic detection, leadership, survival, first aid, outdoor craft, tracking, animal handling, horsemanship, long distance signalling, and yurt construction. He does not like magic, and uses no magic weapons, considering them unworthy of a true Tarkhan.</p><p>Tang is still, for all his residence among civilized folk, a barbarian, and he holds fast to the tenets of his people, particularly their tradition of the vendetta. Despite his alignment, if he has sworn enmity toward someone, he will do anything in his power to bring them woe.</p><p>Tang is a short, bandy-legged man with a round, flat face, snub nose, black hair streaked with gray, and black slanted eyes. He is almost always smiling, and is very friendly with anybody who he knows is not evil, or connected with Iuz or his evil allies. He owns many maps of Oerth, and pores over them frequently, trying to figure out how a barbarian horde of Dry Steppes nomads could travel to Iuz without having to traverse so much hostile territory inbetween. He can read, and speaks several languages fluently.</p><p>He has a few barbarian quirks and taboos: He does not willingly sleep anywhere but in a yurt, tent, or the open; and if he is forced to spend the night indoors, he feels trapped, and will often have terrifying nightmares. He also is forbidden by a personal taboo to ride anything but a horse or a camel. Donkeys, elephants, vehicles, and other modes of travel are forbidden to him.</p><p>Tang left Iuz under a great cloud, and he is consumed with insane hatred for Iuz. He has sworn a vendetta against Iuz, and will attack any evil humanoid he sees, believing it to be an agent of Iuz. If any one asks him what he most wants to do, he launches into hours of talk about how he would like to bring in a huge horde of his people, along with the Rovers of the Barrens and the Tiger and Wolf Nomads as allies, to lay Iuz's entire kingdom to waste and kill every creature in it. He pores over his maps, and if he can find a way, he will go back to his homeland to summon a barbarian horde of his own folk, to lay Iuz in ruins.</p><p>Tang's obsessive hatred of Iuz is unusual for him, since he is usually friendly and easy going. His hatred of Iuz started while Tang was serving as a mercenary commander of Iuz's cavalry. With his contempt for \"civilized\" folk, Tang didn't much mind riding with Iuz's horsemen against the settled folk. When Iuz wanted to send him and his command against the Rovers of the Barrens, though, Tang rebelled. There was too much resemblance between the Rovers and his own people, and he couldn't bring himself to slaughter people so like his own. Iuz sent orders to arrest the young nomad, but Tang managed to persuade his command of cavalry to slaughter the messengers, and he defected with his cavalry to the Wolf Nomads.</p><p>The young nomad's impertinence in refusing to be arrested sent Iuz into a raving fury. He has not stopped searching for Tang, and if he were to be brought before Iuz, the nomad could expect no mercy. Iuz had planned to use the cavalry Tang was training against the nomadic peoples on his northern borders, and seeing the nomads strengthened by his own men enraged him.</p><p>Tang the Horrific is unmarried, since he does not consider \"civilized\" girls to be proper company for a Tarkhan of the Purple Eagle Clan. He has become very good at repairing his yurt, and makes excellent kumiss (fermented milk). He is always glad to see fellow nomads, and will cheerfully sit up till the wee hours talking shop with them, arguing about what kind of bow is best, or discussing horseflesh, or comparing methods of hunting.</p><p>Tang is an excellent general, in the nomad style, and is accustomed to commanding all types of troops. Iuz is correct in feeling that he poses a threat, for if he manages to bring a horde of his people to Iuz, along with the northern nomads, there would be little that could stand against him except the cities, which would starve without supplies.</p><p class=\"gh-src\">GA p.47. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "fighter",
+          "level": 12,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 80,
+        "max": 80
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Timitrios Spartakos",
+    "type": "npc",
+    "folder": "Elsewhere on Oerth",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 4
+        },
+        "int": {
+          "value": 17
+        },
+        "wis": {
+          "value": 13
+        },
+        "dex": {
+          "value": 12
+        },
+        "con": {
+          "value": 9
+        },
+        "cha": {
+          "value": 8
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Chaotic Neutral",
+        "deity": "",
+        "biography": "<p><em>Magic-User-Great Kingdom</em></p><p class=\"gh-stat\">AC 3 (bracers of defense, AC 3); MV 12&quot;; MU 6; hp 19; #AT 1; Dmg by weapon or spell type (staff, dart, dagger); Str 4, Int 17, Wis 13, Dex 12, Con 9, Cha 8; THAC0 19; AL CN; SA spells: 4-1st, 2-2nd, 2-3rd; SD magic items</p><p>Timitrios Spartakos was born in the capital city of the Great Kingdom, Rauxes, to shabby but genteel parents. His father had been a minor nobleman until a relative's conviction for treason was the family's undoing. Timitrios Spartakos grew up on the streets until a family friend used influence to get him accepted for training with the great</p><p>Jaran Krimeeah. This was a great honor, for Jaran Krimeeah was a relative of the Imperial family, and could be very choosy about his pupils. With the cynicism of a street-smart child, young Timitrios waited to find out just what price would be exacted for his good fortune.</p><p>On the first night with his new master, Timitrios found out. An agent of the Imperial Secret Police, posing as Jaran Krimeeah's butler, interviewed him in his room at the mage's house. His position as apprentice-mage brought him deep into his master's confidence. The \"butler\" forced the youth to agree to report any suspicious conversations. Jaran Krimeeah was politically suspect because he was a relative of the Imperial family. The secret police's web around him was fairly tight, but unobtrusive enough that the arrogant mage did not seem to be aware of it. There was evidence that the mage was plotting a coup d'etat, and he would be most likely to confide in his apprentice. Timitrios was to report everything he heard to the Secret Police.</p><p>The boy took to his new double life with glee. He felt a malicious sort of power to be able to mislead the foremost mage of the Empire. He also liked being a secret agent for the Imperial Secret Police, sending secret messages that were read by high Imperial officials.</p><p>As the Secret Police expected, Jaran Krimeeah began plotting a coup. He confided in his apprentice at every step, being unable to resist bragging. Timitrios swiftly learned how to draw his master out, and his reports to the Secret Police were full of exact details on the planned coup.</p><p>When Jaran Krimeeah was arrested, Timitrios Spartakos was a primary witness against him. The mage, confined in locked plate armor (as was the custom in the Great Kingdom when trying a mage), listened helplessly as his traitorous apprentice dissected his attempted coup d'etat in fine detail. At his conviction, he shrieked threats to avenge himself against all whom he felt had a part in his downfall, and Timitrios Spartakos was his main target.</p><p>After Jaran Krimeeah was exiled, the Imperial Secret Police gave their favored spy an amulet of proof against location in recognition of the fact that an angry mage could easily carry out his revenge. They also gave young Timitrios an opportunity to study with a famous mage.</p><p>Timitrios was happy to continue his studies, but he quickly found that his teacher was quite unworldly, and did not pay much attention to his young pupils when they were outside of class, so the students were left to their own devices. Unsupervised, Timitrios took to drinking-just for the fun, he said.</p><p>When he learned that some of his fellow pupils were using their arts in unlawful ways, Timitrios Spartakos decided to turn this knowledge to his own advantage. By an artful combination of tattling to the Secret Police and backstabbing, he soon had all the other pupils in fear of him. He made certain to remain on good terms with his master, and by delicately smoothing over a minor scandal involving his teacher and a comely serving wench, earned his master's gratitude and good opinions. His magical talents were all that remained to make him his master's prize pupil.</p><p>When his master died, Timitrios was left a box of maps, purporting to show the locations of treasures. Timitrios moved to the city of Greyhawk, since the treasures were located near there, and to get away from people who remembered his betraying and backstabbing. In Greyhawk, his unsavory reputation had not preceded him, and he had no difficulty gaining employment.</p><p>In Greyhawk, Timitrios began to drink heavily. He often spent weeks in a stupor, and would only stagger out when his supply of drink was running low. He finally noticed that his savings were running out, and managed to sober himself.</p><p>Now, at age 27, Timitrios Spartakos has black hair, olive skin, and black eyes. He is of average height, and usually wears ordinary street clothes instead of wizard's robes. His familiar, a calico cat, is never far from his side.</p><p>In addition to his amulet of proof against detection, Timitrios owns a ring of spell storing, once the property of his last teacher. This contains only defensive spells (feather fall, invisibility, protection from normal missiles, and teleport. He also has the following: two potions of treasure finding, a ring of protection +2, a wand of negation, boots of speed, an efreeti bottle, and two ioun stones, one pale lavender and one lavender &amp; green (which absorb spells up to 4th and 8th level, respectively); all taken from his two powerful former masters.</p><p>The Mage of the Valley has not forgotten the young pupil who betrayed him. His valley elf assassins are watching for Timitrios, to report his exact location to the Mage. Once he learns precisely where his erring pupil is, the Mage of the Valley intends to pay him a visit so they can, in his words, \"talk over old times together.\"</p><p>Unsavory rumors have also started in Greyhawk about the young mage from the Great Kingdom. He has slipped back into drunkenness several times, and has fumbled several jobs while drunk. He refuses clerical help, claiming to be fine, but people who want a reliable spell caster are increasingly reluctant to hire the dark young man from Rauxes.</p><p>If Timitrios Spartakos were asked, he would probably be willing to accompany a party of adventurers to the places on his treasure maps. However, he would be likely (90%) to take \"his share\" at night, and leave.</p><p class=\"gh-src\">GA p.48. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "magicuser",
+          "level": 6,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 19,
+        "max": 19
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  },
+  {
+    "name": "Guiliana Mortidus",
+    "type": "npc",
+    "folder": "Elsewhere on Oerth",
+    "system": {
+      "abilities": {
+        "str": {
+          "value": 10
+        },
+        "int": {
+          "value": 11
+        },
+        "wis": {
+          "value": 16
+        },
+        "dex": {
+          "value": 18
+        },
+        "con": {
+          "value": 14
+        },
+        "cha": {
+          "value": 18
+        }
+      },
+      "details": {
+        "race": "human",
+        "alignment": "Lawful Evil",
+        "deity": "",
+        "biography": "<p><em>Cleric-The Horned Society</em></p><p class=\"gh-stat\">AC 3 (banded mail + shield); MV 9&quot;; C 8; hp 50; #AT 1; Dmg by weapon or spell type (mace, staff, staff sling, club); Str 10, Int 11, Wis 16, Dex 18, Con 14, Cha 18; THAC0 16; AL LE; SA Spells: 5-1st, 5-2nd, 3-3rd, 2-4th; SD spells</p><p>Guiliana Mortidus was born to members of the Horned Society. Her mother was an evil fighter and her father was an evil priest. They dedicated their child to the service of the Society before her birth. When she was old enough, she was tested exhaustively, and the tests indicated that she had the potential to be a cleric. Accordingly, she began clerical training at the earliest possible age.</p><p>Guiliana Mortidus was not a popular pupil-her sneering contempt for those who were less talented, combined with her ability to hold a grudge ensured that she would have few friends.</p><p>She advanced through the school precisely on schedule, but did not show any unusual talent. She performed the menial tasks that were assigned to the pupils without complaint, although without enthusiasm. When she had completed her training, she was invested with the rank of cleric.</p><p>She had carefully concealed her burning hatreds from her superiors and teachers, estimating that they would betray her to her enemies. Secretly, she raged that she was not in a position to crush everyone who had ever dared offend her. When she was assigned to a low-ranking task in the temples of the Horned Society, she smiled politely and accepted, biding her time.</p><p>After several years, her patience was rewarded. She was given a position as a clerical \"adviser\" to the armies of the Horned Society, which were preparing for a war. She happily went off with the armies with her eyes open for possible means of promoting herself.</p><p>She gained experience rapidly with the armies, and gained a few magic items, but none of any great value. The valuables always went to the high command, and seeing them flaunting objects she craved for herself made her blood boil.</p><p>Finally, after a battle against the Shield Landers, her patience was rewarded. Searching among the dead and wounded Horned Society members for those who needed healing, the young cleric found a ring of human influence on a dead leader of Shield Lands troops, and a talisman of pure evil on a wounded and unconscious Horned Society cleric, whom she promptly killed so that she could take his talisman.</p><p>She has used these items ever since, but always carefully: She doesn't want anyone to know she possesses them. She has seen many of her colleagues stabbed or smothered in their sleep for their magical items, and does not wish to share that fate. Using the ring, she has suggested to her peers that they shouldn't oppose her in her climb to the top, and she has been experimenting with suggesting to her superiors that she is worthy of promotion.</p><p>Owning these two items makes Guiliana even more vain and unpopular than before. Previously, she was merely unbearable, with her disagreeable behavior and her well-founded defensiveness about her unattractive appearance. Now, with her special magic items, she has alienated nearly every one of equal or lower rank in the Society. She is carefully watched by her superiors, who correctly suspect her of ambition.</p><p>Guiliana Mortidus is a thin, slatternly woman with stringy brown hair, weak features, bad teeth, and faded blue eyes. She wears a battered suit of banded mail and carries a shield in battle. She does exactly what her superiors in the Horned Society tell her to do, and nothing more.</p><p>She has started a small network of spies who work directly for her, consisting mostly of hobgoblins who think that this activity is authorized by the Horned Society. With their information, she plans to try to incriminate her enemies, so that she can avenge herself. She is not aware that a lowly potboy she recruited is really an assassin using his disguise to spy on her.</p><p>Her superiors do not currently have reasons to be concerned about her schemes, but they want to be sure that her schemes do not endanger them. If her plans are consistently inept, she will be brought up on charges, condemned, and executed. If her plans show promise, she will be subtly encouraged to adapt them to the overall plans of her superiors.</p><p>Guiliana is currently a cleric of medium rank at the main temple of the Horned Society, in the city of Molag. She has been on several minor missions to allies of the Society, such as Iuz. She has a few underlings, whom she rules by threats and abuse. Everyone unfortunate enough to be beneath her in rank hates and fears her.</p><p>In addition to her other items, Guiliana owns a staff of withering which also functions as a staff sling +2, and a mace +1. She is currently negotiating for a set of chain mail +2 with the hobgoblins who captured it in a recent fight. Unfortunately, the hobgoblin shaman who owns the armor is quite aware of its value and is asking a high price.</p><p>Except for her ambition for revenge, Guiliana is completely loyal to the ideals and goals of the Horned Society. Her relative lack of experience with the outside world has left her with almost no comprehension that any other view of life is even possible, much less reasonable.</p><p>Secretly, she thinks that anyone who fails to convert to the tenets of the Horned Society is at least guilty of willful self-deception, if not insanity. She has seldom conversed with prisoners, and the few times she did, she was unable to comprehend that the prisoners could hold views so diametrically opposed to her own. She will gladly argue points of philosophy and alignment, but will not be convinced that the Horned Society is anything but a paradise on earth for those wise souls who work hard and obey the Society's laws.</p><p class=\"gh-src\">GA p.49. Text taken from the scan; statistics checked against the page image. The armor class, THAC0 and damage are as printed; the sheet works out its own from the class, abilities and equipment.</p>"
+      },
+      "classes": [
+        {
+          "key": "cleric",
+          "level": 8,
+          "xp": 0,
+          "matrix": "",
+          "save": "",
+          "hitDie": 0
+        }
+      ],
+      "hp": {
+        "value": 50,
+        "max": 50
+      },
+      "ac": {
+        "misc": 0,
+        "override": 0
+      },
+      "npc": {
+        "role": "independent"
+      }
+    }
+  }
+]

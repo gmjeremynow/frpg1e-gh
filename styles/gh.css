@@ -1,0 +1,21 @@
+.gh-tab .hint { color: #6b5f4a; font-size: 11px; }
+.gh-tab .gh-grid { display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-end; margin-bottom: 4px; }
+.gh-tab label span { display: block; font-size: 11px; color: #6b5f4a; }
+.gh-tab .gh-grid input[type="number"] { width: 5em; }
+.gh-tab label.gh-wide { display: block; }
+.gh-tab label.gh-wide input { width: 100%; }
+.gh-tab button { width: auto; display: inline-block; }
+.gh-tab .gh-table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+.gh-tab .gh-table th { text-align: left; width: 9em; color: #6b5f4a; font-weight: normal; vertical-align: top; }
+.gh-tab .gh-table td, .gh-tab .gh-table th { padding: 1px 4px; border-bottom: 1px solid #ddd3bd; }
+.gh-tab .gh-specials li.gh-later { color: #9a917e; }
+.gh-tab .gh-left { padding-bottom: 3px; }
+.gh-src { font-size: 0.85em; color: var(--color-text-secondary, #555); font-style: italic; }
+.gh-stat { font-size: 0.92em; }
+table.gh-ref { font-size: 0.85em; border-collapse: collapse; width: 100%; }
+table.gh-ref th, table.gh-ref td { padding: 1px 4px; border-bottom: 1px solid rgba(0,0,0,0.1); text-align: left; }
+
+/* tables in the Greyhawk journal pages */
+.gh-list { width: 100%; border-collapse: collapse; margin: 4px 0 10px; font-size: 0.95em; }
+.gh-list th { text-align: left; font-weight: bold; border-bottom: 1px solid #b8a98a; padding: 2px 6px; }
+.gh-list td { padding: 2px 6px; border-bottom: 1px solid #ddd3bd; vertical-align: top; }

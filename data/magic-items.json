@@ -1,0 +1,1457 @@
+[
+  {
+    "name": "Admundfort Ring of Leadership",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rings (GA)",
+    "system": {
+      "source": "GA p.73",
+      "xp": "1,500",
+      "gpValue": "8,500",
+      "category": "ring",
+      "usable": "F",
+      "description": "<p><em>Usable by: F</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This silver ring was created by a wizard in the service of the Knights of the Shield. The ring is traditionally given between rangers and paladins of at least 9th level, in return for loyal friendship or unexpected favor.</p><p>The ring allows a fighter to attract twice as many men-at-arms as normal as followers. The ring also gives a +25% bonus to the loyalty of such followers. If a fighter loses the ring, he or she retains the followers, but no longer receives the loyalty bonus.</p><p class=\"gh-src\">GA p.73. X.P. value 1,500; G.P. value 8,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Lucky Ring of the Wild Coast",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rings (GA)",
+    "system": {
+      "source": "GA p.73",
+      "xp": "500",
+      "gpValue": "3,500",
+      "category": "ring",
+      "usable": "",
+      "description": "<p>This magical ring was created by a wizard who liked to gamble, though his greatest gamble was to use it under the suspicious eyes of the Thieves Guild. The ring increases a gambler's chances of winning, and is prized among the rogues of the Wild Coast. The user can choose to add or subtract one from each die rolled in a game of chance. The direction of the change must be stated before any roll is made. Thus, a 3d6 roll of 2, 4, and 6 can be decreased to 1, 3, and 5, or increased to 3, 5, and 6. The ring is useful only to a character who is actually gambling, and has no effect on \"to hit\" or damage rolls, saving throws, etc.</p><p class=\"gh-src\">GA p.73. X.P. value 500; G.P. value 3,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Cursed Ring of the Great Kingdom",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rings (GA)",
+    "system": {
+      "source": "GA p.73",
+      "xp": "-",
+      "gpValue": "2,000",
+      "category": "ring",
+      "usable": "",
+      "description": "<p>This cursed magical item was created by a wizard who was loyal to the Great Kingdom. Though the ring has only limited power, its use to plague the diplomats of the Iron League was well known.</p><p>Once it has been placed on a character's finger, the ring causes problems when the wearer attempts to use his charisma reaction bonus. As the character tries to make a good impression, he will commit an embarrassing faux pas instead. The effect depends upon the occasion: If the encounter requires manners, the character might belch; if it is a solemn event, he might giggle; if it requires silence, he might sneeze; if it requires the character's full attention, he might yawn; and so on.</p><p>A character making a successful saving throw versus spell is unaffected and receives his normal charisma bonus. If the saving throw is failed, the character receives a -50% penalty to the reaction check. The ring itself can be removed from the unfortunate character's finger, but the curse remains until negated by a remove curse spell. Note that the ring can be passed to many owners, and the ring can affect them all equally.</p><p class=\"gh-src\">GA p.73. X.P. value -; G.P. value 2,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Ring of the Pomarj",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rings (GA)",
+    "system": {
+      "source": "GA p.73",
+      "xp": "4,000",
+      "gpValue": "20,000",
+      "category": "ring",
+      "usable": "",
+      "description": "<p>This black ring was created by a wizard from the Wild Coast. Hating all inhabitants of the Pomarj, he used it to gather troops of goblins, ogres, or orcs. He then led these troops into battle against the humanoids of the Pomarj. The ring is considered a threat by many other lands other as well.</p><p>The ring allows a character of evil alignment to gather a horde of goblins, ogres, or orcs (in much the same fashion as a barbarian horde is summoned). The wearer of the ring decides which race he wishes to gather, and can gather a number of creatures determined by his experience point total:</p><table class=\"gh-list\"><thead><tr><th>Race</th><th>Horde Size</th></tr></thead><tbody><tr><td>Goblin</td><td>X.P. divided by 750</td></tr><tr><td>Ogre</td><td>X.P. divided by 4000</td></tr><tr><td>Orc</td><td>X.P. divided by 1000</td></tr></tbody></table><p>The horde can be raised only on the Wild Coast, and must be raised for a specific, short-term purpose. For example, the horde might be gathered to attack a rival tribe, to raid the County of Ulek, or to destroy elves in Celene. It takes the horde at least a week to assemble and, whatever its purpose, the horde will remain together for a maximum number of weeks equal to half of the ring wielder's level. Deviation from the stated purpose may cause the horde to disband sooner, at the DM's option. Disbanded humanoids will return to the Wild Coast by the quickest and safest route. Note that the ring does not charm, beguile, or otherwise compel obedience, and that a ring wielder whose humanoids disband will not receive a warm welcome the next time he returns to them. The ring can be used but thrice in one year.</p><p class=\"gh-src\">GA p.73. X.P. value 4,000; G.P. value 20,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Diplomacy Rod of Furyondy",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.74",
+      "xp": "4,000",
+      "gpValue": "15,000",
+      "category": "rod",
+      "usable": "",
+      "description": "<p>This rod was created for use by the Prince of Furyondy, though his disappearance left it in the hands of less noble officials. The rod gives the holder a + 15% reaction bonus when negotiating or debating with other intelligent creatures.</p><p>Once per day the rod allows the holder to cast a suggestion spell by expending a charge from the rod. The suggestion must involve matters of peace or cooperation, or the subjects of the spell will receive a +1 saving throw bonus. The rod holds up to 25 charges and is rechargable.</p><p class=\"gh-src\">GA p.74. X.P. value 4,000; G.P. value 15,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Rod of the Aerdi Sea",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.74",
+      "xp": "5,000",
+      "gpValue": "25,000",
+      "category": "rod",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This defensive weapon was fashioned for use by merchants who sail the pirate-infested waters between Hepmonaland and the Great Kingdom. It allows the wielder to cast the following effects by expending a certain number of charges from the rod:</p><p>fog cloud 1 spectral forces 2 programmed illusion 3</p><p>The rod takes 5 segments to activate, and the user can move normally (not melee) and concentrate to maintain the effect. The rod has a range of 240 yards and affects an area 180' on a side. Illusions not closely related to the sea or sailing are saved against at +1.</p><p class=\"gh-src\">GA p.74. X.P. value 5,000; G.P. value 25,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Rod of Onnwal",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.74",
+      "xp": "4,000",
+      "gpValue": "15,000",
+      "category": "rod",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This magical rod was originally created to help protect the inhabitants of Onnwal against the fierce storms that regularly lash the Sea of Gearnat. It is also known to have been used effectively against dust storms in the Bright Desert, blizzards in the northern countries, and on the windy peaks of various mountain ranges.</p><p>Upon command, the rod causes air in a 50' radius to become calm, with a wind velocity of 0. It can be used to negate damage to structures as long as the side against which the wind is blowing can be included in the rod's radius of effect. However, the rod does not influence rain, snow, or any solid objects carried upon the wind and hurled into its area of effect. The rod also will not protect a flight of missiles that is fired or hurled out of its area of effect.</p><p>The rod has will prevent damage from creatures employing high winds as a special form of attack. For example, an air elemental would be able to attack normally, but would not be able to attack in whirlwind form.</p><p>Each use of the rod drains one charge. Each charge lasts one hour, and the rod can be recharged.</p><p class=\"gh-src\">GA p.74. X.P. value 4,000; G.P. value 15,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Rod of Welkwood",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.74",
+      "xp": "5,000",
+      "gpValue": "25,000",
+      "category": "rod",
+      "usable": "C",
+      "description": "<p><em>Usable by: C</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Fashioned from an oaken branch, this item was created by druids serving the woodsmen who inhabit this majestic forest. As they enchanted the branch, they instilled in it their awe and respect for the great trees and vegetation that set this woodland apart.</p><p>The rod can be used as a shillelagh (magical weapon, +1 \"to hit,\" damage 2-8 versus S and M or 2-5 vs L). If charges are expended, the following effects can be created as if by an 8th level druid:</p><p>entangle 1 plant growth 2 wall of thorns 3</p><p>This rod has up to 25 charges and can be recharged.</p><p class=\"gh-src\">GA p.74. X.P. value 5,000; G.P. value 25,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Skull-Staff of Hepmonaland",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.74",
+      "xp": "5,000",
+      "gpValue": "20,000",
+      "category": "staff",
+      "usable": "C, M",
+      "description": "<p><em>Usable by: C, M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This is a 7' long pole that is topped with a skull with a wild mane of white hair and sharp, demonic features. The shaman who uses the staff claims that it is the skull of an ancient demon, though many suspect that it belonged to an evil wizard who died in the hands of head-hunters in Hepmonaland. The skull can magically cause fear in any creature gazing upon the skull when this power is invoked.</p><p>Its secondary powers, which require no charges, are a personal protection from evil effect that surrounds the wielder, and displacement, as a cloak of displacement (a +2 bonus to armor class and saving throws, and the first attack misses) against creatures from the lower planes. The rod has up to 25 charges and cannot be recharged.</p><p class=\"gh-src\">GA p.74. X.P. value 5,000; G.P. value 20,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Staff of Gnatmarsh",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.74",
+      "xp": "4,000",
+      "gpValue": "20,000",
+      "category": "staff",
+      "usable": "C, M",
+      "description": "<p><em>Usable by: C, M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Enchanted by a shaman of the tribesmen in Gnatmarsh, this staff has the following spell-like functions:</p><p>1. Death ray against a single insect or insectoid monster, fatal unless a saving throw versus death ray is successful (1 charge).</p><p>2. Animate dead insect or fallen insect life in a 10' area (2 charges).</p><p>3. Summon 1d4 +2 friendly thri-kreen (or insects decided by the DM) to fight for the summoner for 8 hours or until until slain (at which time they disappear, 3 charges).</p><p>The staff can be recharged.</p><p class=\"gh-src\">GA p.74. X.P. value 4,000; G.P. value 20,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Staff of Hornwood",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.74",
+      "xp": "4,000",
+      "gpValue": "15,000",
+      "category": "staff",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This wooden staff was enchanted by a wizard who wanted to make his travels in the wilderness less dangerous. When the command word is spoken, the staff creates an area of antipathy in a 20' radius that will be avoided by normal animals (including giant variations) unless attacked by the staff holder or his party. Animals with higher than animal intelligence can enter the warded area if a successful saving throw versus rod, staff or wand is made.</p><p>Enchanted creatures of the forest will be irritated by the operation of the staff; 75% of the time these will leave the area in disgust, and the other 25% of the time they will take steps to drive away the staff holder.</p><p>The staff can also be used as a melee weapon, in which case the antipathy effect will cause any animal struck to flee the encounter, subject to any applicable saving throw. Each such hit drains a charge from the staff.</p><p>Note that with sufficient time and effort, animals can be</p><p>trained to withstand the effects of this staff. The staff can be recharged.</p><p class=\"gh-src\">GA p.74. X.P. value 4,000; G.P. value 15,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "War Staff of Nyrond",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.75",
+      "xp": "5,000",
+      "gpValue": "30,000",
+      "category": "staff",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Just after Nyrondal troops willingly withdrew from the Theocracy of the Pale and the County of Urnst, a Nyrondal wizard created this staff because he feared that other lands might see this as a sign of weakness and attack the Kingdom of Nyrond. Though such attacks never occurred, the staff was useful to certain powerful magic-users guarding the borders of Nyrond.</p><p>Possession of this wooden staff allows a magic-user of at least 11th level to attract personal followers as a fighter of name level. A magic-user can use the staff only once per year, and it must remain in the spellcaster's possession for a full month after the followers have gathered, or the troops will disband and desert. Once the month has passed, the troops will be personally loyal to the spellcaster for one year, barring exceptional conditions or poor treatment. Note that this in no way affects the hiring of men-at-arms in the normal fashion.</p><p class=\"gh-src\">GA p.75. X.P. value 5,000; G.P. value 30,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Bisselite Wand of Peace",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.75",
+      "xp": "3,000",
+      "gpValue": "15,000",
+      "category": "wand",
+      "usable": "C",
+      "description": "<p><em>Usable by: C</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This item has served the clerics and border guards of the March of Bissel. Once per day it can cause all mortal beings in a 50' radius to save versus wands or become calm and unwilling to fight. Calmed beings will defend themselves against attack, but will not attack or otherwise take hostile action. However, those affected do not necessarily become friendly. The duration of the effect is 3 turns.</p><p class=\"gh-src\">GA p.75. X.P. value 3,000; G.P. value 15,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Scant Wand of Storms",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.75",
+      "xp": "6,000",
+      "gpValue": "40,000",
+      "category": "wand",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This wand was created in the capital city of Onnwal, and has been used against raiding warships from the South Province. Its creator was undoubtedly influenced by observing the furious weather in the Sea of Gearnat.</p><p>The wand is usable only outdoors and creates various weather effects with the expenditure of charges:</p><table class=\"gh-list\"><thead><tr><th>Effect</th><th>Charges</th></tr></thead><tbody><tr><td>wall of fog</td><td>1</td></tr><tr><td>precipitation</td><td>1</td></tr><tr><td>gust of wind</td><td>2</td></tr><tr><td>cloudburst</td><td>2</td></tr><tr><td>chain lightning</td><td>3</td></tr><tr><td>influence weather</td><td>3</td></tr></tbody></table><p>Chain lightning is similar to the magic-user's spell, but with a range of 70 yards. The bolt strikes the first object targeted for 6d6 of damage (half damage if a saving throw versus wands is successful), arcs randomly to another object within range for 5d6 of damage, then to another for 4d6, etc. The bolt continues arcing to from each object struck, ending when a sixth object has been struck for 1 die of damage.</p><p>Influence weather is similar to the spell control weather, but can be used only to increase cloudiness, rain/snowfall, and/or wind velocity.</p><p>Each time the wand is used, the general weather conditions over a broad area can become unexpectedly severe. The chance for and type of severe weather depends on the original effect that the caster has attempted to summon:</p><table class=\"gh-list\"><thead><tr><th>Effect Attempted</th><th>Chance for Severe Weather</th><th>Type of Weather</th><th>Charges Drained</th></tr></thead><tbody><tr><td>wall of fog</td><td>10%</td><td>Thick, persistent fog</td><td>3</td></tr><tr><td>precipitation</td><td>10%</td><td>Rain or snow squall</td><td>3</td></tr><tr><td>gust of wind</td><td>20%</td><td>Gale or tornado</td><td>4</td></tr><tr><td>cloudburst</td><td>20%</td><td>Hailstorm or severe snow</td><td>4</td></tr><tr><td>chain lightning</td><td>30%</td><td>Lightning storm</td><td>5</td></tr><tr><td>influence weather</td><td>30%</td><td>Heavy rain or blizzard</td><td>5</td></tr></tbody></table><p>The charges drained for severe weather are immediately lost from the wand if the severe weather occurs. The wand can be recharged.</p><p class=\"gh-src\">GA p.75. X.P. value 6,000; G.P. value 40,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Dark Wand of the Sulhaut Mountains",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.75",
+      "xp": "1,500",
+      "gpValue": "8,000",
+      "category": "wand",
+      "usable": "",
+      "description": "<p>This ebony wand was enchanted by an elven magic-user who traveled from Loftwick to the Sulhaut Mountains to hunt down the ancient enemies of his race. The wand is a specialized version of the wand of enemy detection.</p><p>The wand has two functions. First, it can be used to discover the direction of the nearest drow or drider. The user simply so commands and pivots until the wand reacts.</p><p>Second, the wand can be used to observe a drow or drider. When pointed in the proper direction and commanded, the wand will create an illusory image of the nearest drow elf or drider in that direction and his or her immediate surroundings. The wand user receives a vague impression of distance (e.g., within a mile, within 5 miles, far away). The image lasts one turn and reveals whatever that drow or drider is doing in some detail, but not enough for the user to be able to, for example, read a scroll being read by the subject.</p><p>The range of the wand is 10 miles per charge expended.</p><p class=\"gh-src\">GA p.75. X.P. value 1,500; G.P. value 8,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Fire Wand of Suloise",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.75",
+      "xp": "4,000",
+      "gpValue": "35,000",
+      "category": "wand",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This wand may have been the device that caused the destruction of the Suel Empire, or it may have been created to reproduce the event. No scholar doubts that its creator was a wizard of great power and violent tendencies. The wand is rarely bought or sold, since few magic-users dare to use it. Often it merely falls into the hands of an unsuspecting spellcaster who never realizes its full powers and dangers until too late.</p><p>The wand can summon a deadly \"fire\" to rain down in a 60' cube from a range of up to 80 yards. The \"fire\" inflicts 5 points of damage per round to all creatures, regardless of protections, resistances, or immunities to normal or magical flame. Such damage cannot be cured by any spell less powerful than a heal spell. Furthermore, the fire will destroy buildings of less than stone construction, and will evaporate free-standing liquid to a depth of 1 foot per round. Objects exposed to the \"fire\" must save versus disintegration or be destroyed. Note, however, that matter is burned to dust and ashes, not vaporized. Though the wand</p><p>itself is never affected by the fire, the wand has a 5% chance of malfunction, in which case the effect is centered upon the wand user.</p><p>The fire requires 3 charges to operate and has a minimum duration of 6 rounds. After this the caster can end the rain by concentrating for a round and making a saving throw versus spells. Each round the wand continues to operate will drain 1 more charge. If the wand is emptied, then the fiery rain vanishes and the wand explodes, engulfing the magic-user and everything within 10' in a blast that inflicts 3d10 points of damage.</p><p>The wand can be recharged, but only in the Quasi- Elemental Plane of Ash, which lies between the the Elemental Plane of Fire and the Negative Material Plane.</p><p class=\"gh-src\">GA p.75. X.P. value 4,000; G.P. value 35,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Wand of Highfolk",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.76",
+      "xp": "4,000",
+      "gpValue": "18,000",
+      "category": "wand",
+      "usable": "C, M",
+      "description": "<p><em>Usable by: C, M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>A favorite weapon of high elves in the northwest, this wand causes dissension between humans, demi-humans, or humanoids of evil alignment in a 30' X 30' area. Any of these creatures that fail a saving throw versus wands will become unusually factious and quarrelsome, convinced that their allies are in fact dangerous enemies. This may lead to open fighting: those affected by the wand must make a saving throw versus spell at each significant provocation to avoid coming to blows.</p><p>If the DM desires, attacks by common enemies or strong leadership may improve the saving throws, while malicious insults or actual blows may worsen them. The effect of the wand lasts a maximum of 1d6 turns, less if one faction has been slain.</p><p class=\"gh-src\">GA p.76. X.P. value 4,000; G.P. value 18,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Yatil Wand of Zooming",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Rods, staves and wands (GA)",
+    "system": {
+      "source": "GA p.76",
+      "xp": "3,500",
+      "gpValue": "17,500",
+      "category": "wand",
+      "usable": "",
+      "description": "<p>This item was created by mountaineers of the Yatils to ease their travels among the jagged slopes and ledges. However, the wand has since become a device of mischief, and the cause of many deaths.</p><p>The wand can affect one object or creature at a time, \"zooming\" up to 2000 g.p. weight (200 pounds) per charge expended, to a maximum weight of 600 pounds. Zooming movement is in a straight line, and any creature moved in this fashion is responsible for its own landing. The maximum distance is 100', though a shorter distance can be specified by the wand's user. An unwilling creature can save versus wand to avoid the effect.</p><p>An object or creature can be hurled horizontally through the air and accelerated as if falling vertically if twice the normal number of charges are expended. A creature that hits an obstacle takes 1d6 points of damage for every 10' traveled; items save versus fall. A 30-foot \"zoom\", for example, inflicts a total of 3d6 points of damage upon a character striking a solid surface. Note that a creature hurled over the edge of a cliff takes no damage from the \"zoom\", but does suffer normal falling damage.</p><p>If insufficient charges are expended, the results will be correspondingly slight.</p><p class=\"gh-src\">GA p.76. X.P. value 3,500; G.P. value 17,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Amulet of the Cairn Hills",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Amulets (GA)",
+    "system": {
+      "source": "GA p.76",
+      "xp": "2,000",
+      "gpValue": "18,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Originally created to protect the common folk from the spirits that haunt these hills, this amulet has become a favorite among graverobbers. It allows a saving throw versus spell to avoid any special attacks from undead (aging, energy drain, fear, disease, strength drain, etc.). Physical attacks and spells cast by undead are unaffected by the amulet. A successful saving throw against an undead attack uses 1 charge, except the following: a two-level energy drain uses two charges, and aging uses 1 charge per 10 years of aging. The amulet has 2-20 charges and cannot be recharged.</p><p class=\"gh-src\">GA p.76. X.P. value 2,000; G.P. value 18,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Amulet of Furyondy",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Amulets (GA)",
+    "system": {
+      "source": "GA p.76",
+      "xp": "1,400",
+      "gpValue": "7,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>The first of these amulets were enchanted to protect the good natives of Furyondy, though they have since been used by characters of many lands and alignments. Hung around the neck from a silver chain, the amulet bestows a remove curse upon any wearer who is cursed. The amulet glows, expending one charge, and any curse subject to the spell remove curse is broken. For example, it will immediately allow a character to be rid of a cursed item, such as a helm of alignment change, although it will not cure lycanthropy. The amulet has 2-7 charges and cannot be recharged.</p><p class=\"gh-src\">GA p.76. X.P. value 1,400; G.P. value 7,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Amulet of Spinecastle",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Amulets (GA)",
+    "system": {
+      "source": "GA p.76",
+      "xp": "900",
+      "gpValue": "4,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>The wizards of the Kingdom of Aerdy created this amulet to aid in the war against the northern barbarians. After the fall of Spinecastle, the amulet disappeared. Scholars assumed it didn't survive the wrath of the barbarians, but stories of the amulet's use still surface in the Bone March.</p><p>Once per hour this golden amulet can be commanded to radiate a magical aura in a 30' radius for one turn. The aura has negative effects on all northern barbarians, raising their superstitious fears and generating a hatred toward magic. Those of 1st to 4th level must save versus spell or immediately retreat out of the area of effect for 1d8 turns. Those of 5th to 7th level must save versus spell or be stunned for one round. Those of higher level suffer a -1 on their \"to hit\" rolls.</p><p class=\"gh-src\">GA p.76. X.P. value 900; G.P. value 4,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Anvil of the Lortmil Mountains",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.76",
+      "xp": "3,000",
+      "gpValue": "30,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This blacksmith's tool was enchanted in a shrine of Moradin, king of the dwarven gods. It allows a dwarven weaponsmith to create extremely strong and sharp blades. Each weapon takes twice as long to create, but when finished is either a normal weapon (on an unsuccessful proficiency check) or a weapon of fine quality (on a successful proficiency check). All weapons of fine quality created by this anvil are worth 100 times the cost of a normal weapon of the same type. It is rumored that this anvil was used to forge legendary magical weapons for the dwarves.</p><p class=\"gh-src\">GA p.76. X.P. value 3,000; G.P. value 30,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Bear Cloak of the Sulhaut Mountains",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.77",
+      "xp": "1,500",
+      "gpValue": "17,500",
+      "category": "misc",
+      "usable": "C, F",
+      "description": "<p><em>Usable by: C, F</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Many years ago, tribal shamans called upon their gods to enchant the hide of a cave bear slain in combat. The cloak became a powerful aid in their struggle to survive against the hostile creatures and the forces of nature that forever threaten their tribes. The fur cloak included a bear-head cap, pelt, and claws. The cloak allowed the wearer to speak with animals twice per day and hold animal once per day. It also increased the wearer's strength to 18(50) and gave 50% immunity to fear. Once a week, the wearer could turn into a cave bear for 1d4+2 hours. The current location of the cloak is unknown.</p><p class=\"gh-src\">GA p.77. X.P. value 1,500; G.P. value 17,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Black Crown of Aerdy",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.77",
+      "xp": "--",
+      "gpValue": "2,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This evil headgear was worn by one of the original Overkings of the House of Naelex in the ancient Great Kingdom. Whether the crown was enchanted by an evil wizard, or whether it merely became a receptacle for the Overking's cruel spirit is not known. The powers of the crown exist only to recreate the greatness and wickedness of the fallen empire.</p><p>Once donned, the crown will not be voluntarily given up. It will raise intelligence by +2 and wisdom by +3 (to racial maximums) and confer one level of magical or clerical ability. Characters who aren't magic-users or clerics can select one level of clerical or magic-user ability-player's choice.</p><p>When the crown is put on, and each month thereafter, character must save once versus spell or become lawful evil, and then must save again versus spell or be overcome with megalomania. Once both of these are in effect, the character must make a saving throw versus spells each month or lose a point of constitution. Any character totally drained by the crown becomes a spectre guarding it.</p><p>The crown can be removed only by use of a wish or equivalent. While this removes the benefits of the item, only then can the alignment change be reversed by a remove curse and an atonement spell, while the character's personality can be restored only with a heal spell.</p><p class=\"gh-src\">GA p.77. X.P. value --; G.P. value 2,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Black Sails of Schnai",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.77",
+      "xp": "1,000",
+      "gpValue": "5,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Enchanted in the land of Snow Barbarians and blessed by shamans of their barbaric gods, these square sails are hoisted only on the funeral ships of great barbarian heroes and lords. The deceased warrior's body is burned along with the ship and all but a small piece of the sail. Afterwards, the character's spirit can be called on by the tribal chiefs in time of battle by burning the remainder of the sail. The spirit appears as a spectral</p><p>einheriar (spirit warrior) and fights on the side of the tribe until destroyed. These einheriar will usually have 4 to 12 hit dice and will require +1 weapons to hit. They will bear the equipment they used in life. Such creatures can be turned as special undead. It is reported that several villages have up to 10 of these spirit warriors on call.</p><p class=\"gh-src\">GA p.77. X.P. value 1,000; G.P. value 5,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Casket of Furyondy",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.77",
+      "xp": "2,500",
+      "gpValue": "27,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Clerics of Furyondy first enchanted this finely-engraved wooden coffin to preserve the bodies of the honorable deceased. Any lawful good cleric can activate its powers by placing into the casket the body of a human or demi-human who not more than nine days dead, then casting a bless spell upon the body. The casket preserves the body from decay indefinitely. The deceased character can be returned to life by a resurrection spell after any length of time. For purposes of resurrection system shock, the subject's constitution is considered to be 3 points above the current ability score (no maximum). He or she also receives the benefits of heal once the resurrection is complete.</p><p class=\"gh-src\">GA p.77. X.P. value 2,500; G.P. value 27,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Chalice of the Shield Lands",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.77",
+      "xp": "3,000",
+      "gpValue": "25,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This golden chalice was enchanted in response to the growing menace of the Horned Society. It allows a lawful good fighter to temporarily become a paladin of the same level for a single quest, with all appropriate powers and abilities of a paladin. The chalice can be activated only by a lawful good cleric who performs a ceremony that includes special vows and the quest spell. The fighter takes vows to the cause of lawful good, then drinks holy water from the chalice. Thereafter he or she can act as a paladin, with alignment changed to lawful good for the duration of the assigned quest. Deviation from the vows may cause the loss of some or all acquired powers, at the discretion of the DM. The failure of the quest will cause the chalice to shatter.</p><p class=\"gh-src\">GA p.77. X.P. value 3,000; G.P. value 25,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Cheetah Cloak of Amedio",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.77",
+      "xp": "1,500",
+      "gpValue": "15,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This yellow, black-spotted cheetah hide was enchanted by the original tribesmen of the Amedio jungle. It gives the wearer a +3 dexterity bonus (to racial maximum). Once every 3 turns the wearer can sprint for 3 rounds at a movement rate of 45\". At night under a moonless sky, the wearer can turn into a cheetah for up to 6 hours in any 24 hour period.</p><p class=\"gh-src\">GA p.77. X.P. value 1,500; G.P. value 15,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Cloak of the Hellfurnaces",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.78",
+      "xp": "2,000",
+      "gpValue": "8,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Created by a wizard who sought treasure in the volcanic mountains, this magical red garment provides protection against many of the volcanic dangers, and gives protection against similar dangers from other sources. The wearer takes only half damage from natural heat sources. The cloak also protects the wearer from sparks and hot ash ejected during a volcanic eruption, but not chunks of rock (called \"bombs\" or \"blocks\"). The cloak's hood has a strip of cloth that can be wrapped around a character's mouth and nose to keep dust and ash from entering the character's lungs; this also provides a +3 saving throw bonus against inhaled poison. The cloak provides a +2 bonus to all saving throws against magical fire or fiery dragon breath, and reduces damage by 1 point per die (each die will inflict a minimum of 1 point of damage).</p><p class=\"gh-src\">GA p.78. X.P. value 2,000; G.P. value 8,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Coin of Almor",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.78",
+      "xp": "--",
+      "gpValue": "500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This cursed item was created not to harm its owner, but to benefit those in need. It is a normal-looking platinum coin that affects any character who intends to keep it for himself, and not share it with others. That character must save versus spell or be overcome with great feelings of philanthropy. No matter what the character's alignment, he will want to give wealth to the poor and needy. The character will not keep more than 50 g.p. at any one time, and instead will hold extra money only until a suitable NPC (preferably a beggar, peasant, etc.) accepts the money as a gift. Such generosity does not extend to the character's magical items, which are generally useless to laborers and farmers. The character's uncontrollable generosity can be ended only by a remove curse spell.</p><p class=\"gh-src\">GA p.78. X.P. value --; G.P. value 500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Collar of Tusmit",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.78",
+      "xp": "1,000",
+      "gpValue": "5,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This adamantite neck-shield was enchanted by a wizard who bore an unnatural fear of decapitation. He wore it until his death, though the collar gave no protection against the magical spells that killed him. The collar offers no armor class bonus, but provides immunity from decapitation, especially from vorpal weapons. Full hit point damage is still received, but the wearer will still have his head attached.</p><p class=\"gh-src\">GA p.78. X.P. value 1,000; G.P. value 5,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Coruskian Stone",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.78",
+      "xp": "1,500",
+      "gpValue": "8,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Set in a golden necklace, this green stone was enchanted by a Nyrondese spellcaster who sought to control the griffons of the Coruskian Mountains. Though the magical item worked well, the wizard overlooked his inability to ride airborne creatures, and he met his doom at the bottom of a deep and jagged chasm. Since then, the stone has been used by the nomads and tribesmen who happen to find it.</p><p>The stone gives its owner the ability to charm griffons (saving throw applicable) once per day. Charmed griffons will</p><p>allow the charmer and his or her allies to ride them. Airborne riding maneuvers that do not require a proficiency check can be accomplished using land-based riding techniques, but airborne maneuvers that require a check automatically fail if the rider has no proficiency in airborne riding. If the wearer rides a griffon into combat, the chances of breaking the spell are doubled (check before the battle).</p><p class=\"gh-src\">GA p.78. X.P. value 1,500; G.P. value 8,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Holy Symbol of Greyhawk",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.78",
+      "xp": "300",
+      "gpValue": "3,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Hung from a gold chain, this golden symbol was enchanted to symbolize the power of its home city. The symbol gives a wearer the combined effects of the bless and protection from evil spells, which can be called on once per day.</p><p class=\"gh-src\">GA p.78. X.P. value 300; G.P. value 3,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Crown of Blackmoor",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.78",
+      "xp": "--",
+      "gpValue": "80,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This black, iron headpiece bears a large fire opal at the front. It was created by a powerful lich who used it to spread evil and destruction through the world, and now only the most wicked (or foolish) characters seek its powers.</p><p>When the crown is placed on the head of a deceased evil character who had reached at least 18th level as magic-user, it animates the character as a lich. A system shock survival check is necessary, modified by -1% per 5 years after the wizard's death, or the wizard's body disintegrates to dust can never be brought back to life again. The lich's intelligence score starts at 0, but increases by one per day until supra-genius intelligence is reached. At that time the lich gains the full powers and abilities of its kind.</p><p>The character placing the crown has no control over the lich, so a reaction check is necessary, with the following cumulative modifiers:</p><table class=\"gh-list\"><thead><tr><th>Summoner</th><th>Modifier</th></tr></thead><tbody><tr><td>Good-aligned</td><td>-30%</td></tr><tr><td>Evil-aligned</td><td>+10%</td></tr><tr><td>Paladin, fighter, or thief</td><td>-20%</td></tr><tr><td>Cleric</td><td>+10%</td></tr><tr><td>Magic-user</td><td>+20%</td></tr><tr><td>0-level character</td><td>-50%</td></tr><tr><td>1st to 5th level</td><td>-30%</td></tr><tr><td>6th to 11th level</td><td>-20%</td></tr><tr><td>12th to 18th level</td><td>-10%</td></tr><tr><td>Over 21st level</td><td>+10%</td></tr><tr><td>Offers treasure (per 500 g.p. value)</td><td>+1%</td></tr></tbody></table><p>A deceased PC who is brought back as a lich becomes an NPC under the Dungeon Master's control. The lich may have been a friend and companion to the player characters, but will tend to leave their company to pursue its own path.</p><p class=\"gh-src\">GA p.78. X.P. value --; G.P. value 80,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Disk of the Azure Sea",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.78",
+      "xp": "1,000",
+      "gpValue": "10,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This item, popular among sea traders, was originally sold to a rich merchant on the coast of Keoland. As wide as a man's hand, the wooden disk bears a small circle of gold in the center. When it is set on the bow of a ship and a prayer is spoken to Fharlanghan, god of travel, the ship is protected for the next 24 hours. During that time, if buccaneers, pirates, or raiders from beneath the waves try to attack, there is a 75% chance a misty fog will come up, allowing the ship to escape with no damage. Failing that, the attack occurs as normal.</p><p class=\"gh-src\">GA p.78. X.P. value 1,000; G.P. value 10,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Dream Cap of Veluna",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.79",
+      "xp": "1,500",
+      "gpValue": "7,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This cap was enchanted by a wizard who sought to unlock the mysteries of the inner mind. The result of his work is a small leather cap that can affect the future of a sleeping wearer.</p><p>For each full night spent asleep, the wearer of the cap experiences dreams of warning. The sleeper dreams of the next creature or force that will threaten or attack him. If the character will be attacked by an NPC, monster, spell, or natural hazard, the cap will reveal it in a dream. However, the threatening creature/force is usually symbolized rather than revealed in actual form. For example, a minotaur may appear as a bull or a large, hairy man; a fireball may appear as a landscape of flames (such as the Elemental Plane of Fire).</p><p>The dreamer must save versus paralyzation to face the danger courageously. If the saving throw is passed, he gains a +2 bonus to saving throws, ability checks, and \"to hit\" rolls while encountering the real danger when it actually arrives. If the saving throw is failed, the character has not faced his fears, and receives a ~2 penalty to saving throws, ability checks, and \"to hit\" rolls in the actual encounter.</p><p>The character will always remember a dream caused by this cap, though the DM need not mention the memory unless the player asks. After the actual encounter with the danger, a character can make an intelligence check to make the connection between the dream and reality. Thus, the cap's owner may not realize the cap's powers until after many nights of premonitions.</p><p class=\"gh-src\">GA p.79. X.P. value 1,500; G.P. value 7,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Eyepatch of Tenh",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.79",
+      "xp": "2,000",
+      "gpValue": "15,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This black patch is often found in the possession of clerics and judges because of its power to discover truth. When it is worn over an undamaged eye, the wearer can see all invisible, astral, and ethereal creatures within normal visual range. Also, illusions and poly- morphed creatures/objects can be seen for what they really are. The eyepatch gives a -5 modifier to rolls for disbelieving a phantasmal killer spell. The patch cannot be used more than 1 turn at a time, or more than thrice per day without causing permanent damage to the eye, headaches, and other complaints.</p><p class=\"gh-src\">GA p.79. X.P. value 2,000; G.P. value 15,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Flaming Mirror of Tenh",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.79",
+      "xp": "2,000",
+      "gpValue": "8,000",
+      "category": "misc",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This mirror is a silver oval, 6' tall and 3' wide, set in an oak stand. It was enchanted by a plane-traveling wizard who sought easy access to her favorite plane, that of Elemental Fire. Few other magic-users have shared her enthusiasm for that dangerous place, though some have found use for the mirror.</p><p>The command word causes the mirror to open a gate to the Elemental Plane of Fire. The plane can be observed, entered, or exited through the mirror. Each round the gate remains open, there is a 10% chance that a fire elemental will leap through the mirror into the Prime Material Plane, and will seek to kill and burn everything in sight. The mirror has a maximum of 30 charges, though it can be recharged. One charge is spent for each round that the gate is open. When all charges are drained, the mirror shatters.</p><p class=\"gh-src\">GA p.79. X.P. value 2,000; G.P. value 8,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Gemcutter's Tools of Sunndi",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.79",
+      "xp": "3,000",
+      "gpValue": "25,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This magical set of vises, hammers, blades, and chisels was enchanted by the mountain dwarves who work the gemstone mines in the County of Sunndi. It helps any character with gem cutting proficiency to increase the value of his work. For individual stones, the cutter can make a proficiency check to gain a modifier to the Gem Base Value Table in the DMG. The DM rolls 1d8 to determine the modifier:</p><table class=\"gh-list\"><thead><tr><th>Roll</th><th>Modifier</th></tr></thead><tbody><tr><td>1-5</td><td>-1</td></tr><tr><td>6-7</td><td>-2</td></tr><tr><td>8</td><td>-3</td></tr></tbody></table><p>The tools are also useful for finishing stones in a mine; the cutter can add 20-50% to the final average value listed on Table 34: Gemstone Quality in the Dungeoneer's Survival Guide. A gem cutter with these tools can demand up to four times the normal fees for his services.</p><p class=\"gh-src\">GA p.79. X.P. value 3,000; G.P. value 25,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Goblet of the Great Kingdom",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.79",
+      "xp": "1,200",
+      "gpValue": "8,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Created for use by the tyrants of Aerdy (who had good reason to fear assassination), this magical goblet appears to be a normal drinking vessel made of polished oak. However, the goblet automatically neutralizes all venoms and poisonous liquids that are stored in it for at least one round.</p><p class=\"gh-src\">GA p.79. X.P. value 1,200; G.P. value 8,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Golden Girdle of Urnst",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.79",
+      "xp": "500",
+      "gpValue": "3,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Created to protect a powerful magic-user against malevolent warriors, this magical garment is made of red silk strewn with golden flakes. It is enchanted to give a +3 armor class bonus against swords of any type, though other weapons are unaffected.</p><p class=\"gh-src\">GA p.79. X.P. value 500; G.P. value 3,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Golden Circlet of Greyhawk",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.79",
+      "xp": "2,000",
+      "gpValue": "30,000",
+      "category": "misc",
+      "usable": "M, T",
+      "description": "<p><em>Usable by: M, T</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This golden circlet was fashioned for use by the Lord Mayor of Greyhawk, and is rumored to be in his treasure vaults. When worn on the head, the circlet allows a character to summon a band of thieves in much the same way as a horn of valhalla summons fighters:</p><p>User is 4th level or less-summons 1d4 4th level thieves</p><p>User is 5th-8th level-summons 1d4 8th level thieves</p><p>User is 9th-12th level-summons 1d4 12th level thieves</p><p>User is 13th level or more-summons one 18th level thief with maximum ability scores</p><p>The user can employ the circlet at less than its full powers if desired. The summoned thieves are friendly to the user, but refuse foolhardy tasks: 'Go fight that demon,\" would get a good laugh from them. The thieves remain for eight hours or until they are killed. The 12th level and lesser thieves all have average statics, wear leather armor, use short swords, and have normal thief equipment. The 18th level thief has an armor class of 2 (still wearing leather armor), uses a short sword +3, and is 30% likely to steal the best magical item he can use from any treasure hoard found during his stay there; it vanishes when he does.</p><p class=\"gh-src\">GA p.79. X.P. value 2,000; G.P. value 30,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Hasty Barge of Nyr Dyv",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.79",
+      "xp": "2,500",
+      "gpValue": "30,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This magical boat was created by a wizard who had been adopted by the people of Nyr Dyv. The magic-user gave it as a gift to a Rhennee noble, and the wizard was in turn made a noble by the grateful lake people.</p><p>The barge looks like a common vessel of the Rhennee. It is 14' wide and 35' long. Upon command it can move at twice normal speed or 60 miles per day, for unlimited time and under its own magical power. Four heavy crossbows are mounted along each side, and more can be added. The barge has a lugsail that can be raised in windy weather to hide the magical nature of its movement.</p><p>The hasty barge magically repels water creatures with less than low intelligence. These will not attack the barge, and get no saving throw against the effect.</p><p class=\"gh-src\">GA p.79. X.P. value 2,500; G.P. value 30,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Headband of the Corusk Mountains",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.80",
+      "xp": "1,800",
+      "gpValue": "18,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Carved from the skull of an ancient white dragon, this headband was enchanted by a powerful wizard who sought to drive the mountain dwarves from their homes and rich mines. Though the magic-user died in a cloud of throwing axes from the dwarven army, the item was never recovered, and so remains lost (or possibly in someone's possession) in the Corusk Mountains. The headband allows the wearer to affect white dragons as a potion of white dragon control, and also gives airborne riding proficiency with white dragons a -2 die roll modifier.</p><p>The wearer is totally resistant to white dragon breath and all effects of cold attacks (spells, weather, or any other type of cold).</p><p class=\"gh-src\">GA p.80. X.P. value 1,800; G.P. value 18,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Healing Cap of Veluna",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.80",
+      "xp": "4,000",
+      "gpValue": "22,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This small cloth cap was enchanted to help clerics of Veluna heal the dying and wounded. When worn by a cleric, it restores double the number of hit points restored by any of the various cure wound spells.</p><p class=\"gh-src\">GA p.80. X.P. value 4,000; G.P. value 22,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Headband of the Jotens",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.80",
+      "xp": "800",
+      "gpValue": "4,500",
+      "category": "misc",
+      "usable": "C, M",
+      "description": "<p><em>Usable by: C, M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This strip of elk fur was enchanted to insure the safety of travelers in the Jotens. When worn around a character's head, the item allows its wearer to understand the psychology of hill giants. If the wearer can communicate with hill giants, he receives any reaction modifier he or she wishes, down to -60% or up to +25%. Once per day the character can inspire one of the following emotions in a group of hill giants:</p><p>Courage --20% morale bonus (see DMG) Fear +20% morale penalty Anger -40% reaction modifier, +2 \"to hit,\" and +2 damage against the object of anger</p><p>These emotions can be inspired in any group of 12 or less hill giants, including friendly ones. The emotions last 2d8 turns and must affect a single group within the eyesight of the wearer.</p><p class=\"gh-src\">GA p.80. X.P. value 800; G.P. value 4,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Holy Star of the Bright Desert",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.80",
+      "xp": "1,000",
+      "gpValue": "6,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This is a copper star marked with the silver axe and energy bolts of Heironeous the Invincible. It was fashioned by dervishes to aid them in their holy battles against infidels. The star gives a good wearer 30% immunity to fear, and a +20% bonus to reactions with dervishes in the Bright Desert. An evil-aligned wearer has a -4 penalty all saving throws involving fear (magical or otherwise), and has a +20% morale penalty.</p><p>The device glows brightly within 30 feet of any extremely evil creature (cf. detect evil spell).</p><p class=\"gh-src\">GA p.80. X.P. value 1,000; G.P. value 6,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Holy Medallion of Almor",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.80",
+      "xp": "1,200",
+      "gpValue": "9,000",
+      "category": "misc",
+      "usable": "C",
+      "description": "<p><em>Usable by: C</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This golden medallion was created while Almor was under the Great Kingdom's rule. The clerics of Almor foresaw great evil coming to Flanaess, so they enchanted this item to help keep peace.</p><p>Once per day the medallion's powers can be used on one</p><p>human, demi-human, or humanoid within a 30 yard range. The affected creature must save versus spell or become extremely nauseated by violence. The mere sight of violence causes the affected creature to save versus poison or become helpless and unable to take action for 2-5 rounds. If the creature attempts to physically harm another living creature, it must save versus poison at -5 or suffer the same effect as above. Also, the creature suffers the penalties of -3 \"to hit\" and damage, and an affected PC or NPC has strength, wisdom, and dexterity scores halved while he or she continues to act violently. Certain spells (such as strength) can help the victim, but only remove curse will completely free a creature. The medallion's effects last for 24 hours.</p><p class=\"gh-src\">GA p.80. X.P. value 1,200; G.P. value 9,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Horn of the Azure Sea",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.80",
+      "xp": "750",
+      "gpValue": "5,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This magical horn was created by an evil high priest who sought a source of undead to befriend and control. The mention of this item causes all sailors and ocean-faring merchants great distress, and they refuse to sail with a character whom they suspect of owning the horn.</p><p>Once per week, only at night on the open sea, the horn can summon a ghost ship. The ship appears in 2-5 rounds, materializing from the Ethereal plane into the Border Ethereal, where it can be seen from the Prime Material plane. The vessel is usually large and multi-decked, with two or three masts and tattered sails. It is white and transparent, and it makes no sound. For ten turns, it floats beside the ship upon which the summoner stands, then vanishes back into the Deep Ethereal.</p><p>Any character who sees the ghost ship must save versus spell or be struck with fear for one turn. The summoner himself is immune from this effect.</p><p>The ghost ship appears to be deserted, but is actually haunted by the following types of undead:</p><table class=\"gh-list\"><thead><tr><th>1d10 Roll</th><th>Undead</th></tr></thead><tbody><tr><td>1-2</td><td>1-4 apparitions</td></tr><tr><td>3-4</td><td>1 ghost</td></tr><tr><td>5-7</td><td>3-12 shadows</td></tr><tr><td>8-0</td><td>1-4 spectres</td></tr></tbody></table><p>These undead do not normally make themselves known, but there is a 75% chance that one of them will transfer to the summoner's ship. Thereafter it will reluctantly obey the orders of the summoner for the rest of the summoner's life or until it is destroyed.</p><p class=\"gh-src\">GA p.80. X.P. value 750; G.P. value 5,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Horn of the Barrier Peaks",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.81",
+      "xp": "3,000",
+      "gpValue": "18,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This iron instrument was enchanted by a dwarven smith to cement the friendship between demi-humans and giant eagles. It is not used often out of respect to the great birds, but has found occasional use in desperate times.</p><p>The horn is usable only once per week. In areas where giant eagles dwell, it can summon 7-12 giant eagles, and they arrive in 4-7 rounds, If dwarves, elves, or halflings are in danger, the eagles will attack whatever is threatening them and/or carry the demi-humans (and their companions) to safety. The eagles will not fight to the death or risk their lives uselessly, but will call reinforcements if more humans or demi-humans need to be saved from danger.</p><p>To ensure that the eagles continue to answer to the horn's call, a those rescued must accept a geas to perform some service for the eagles. Failure for all those rescued to do so breaks the ancient pact and causes the horn to shatter.</p><p class=\"gh-src\">GA p.81. X.P. value 3,000; G.P. value 18,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Horn of the Vast Swamp",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.81",
+      "xp": "1000",
+      "gpValue": "2,500",
+      "category": "misc",
+      "usable": "C, M",
+      "description": "<p><em>Usable by: C, M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This conch shell was enchanted by a renegade magic-user who was banished by the Count of Sunndi for criminal behavior. The wizard sought to gain power over the inhabitants of his new home, though he paid a heavy price for it (see explanation below).</p><p>The horn summons 7-12 giant toads. Any summoner can command these toads for a number of rounds equal to twice his level. A non-evil summoner must make a saving throw versus spells or lose control of the toads and be attacked by them. Each use of the horn causes the summoner to save versus spells or permanently lose 3 wisdom points. The summoner will not notice the change until his wisdom score drops to 0, when he becomes a giant toad. The cumulative changes are:</p><p>3 glassy eyes, warts</p><p>6 light green hair</p><p>9 frog-like facial features, croaking voice</p><p>12 dark green skin</p><p>15 bloated body, hunched back</p><p class=\"gh-src\">GA p.81. X.P. value 1000; G.P. value 2,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Iron Crown of the Bandit Kingdoms",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.81",
+      "xp": "3,000",
+      "gpValue": "35,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Fashioned in the land of warriors, this metal headgear completely removes the chance for the following spell-like powers to work on the wearer: fear, charm person, magic jar, suggestion, and hold person. A fighter gains one level and a cleric or magic-user loses one level while wearing the device.</p><p class=\"gh-src\">GA p.81. X.P. value 3,000; G.P. value 35,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Iron Pin of the Icy Sea",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.81",
+      "xp": "500",
+      "gpValue": "4,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Set in a circular container of transparent crystal, this pin was originally used by the barbarian hunters/raiders who sail the Icy Sea in the foggy summer. One command will make the pin point always eastward. A second command can make it point to the desired destination. Furthermore, if outside magical or supernatural forces affecting navigation are active, the crystal will glow.</p><p>Like a lodestone, however, the item is subject to strong magnetic forces, and offers no protection against natural navigational hazards, such as the gigantic icebergs that loom in the northern fog.</p><p class=\"gh-src\">GA p.81. X.P. value 500; G.P. value 4,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Lantern of Greyhawk",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.81",
+      "xp": "3,000",
+      "gpValue": "25,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This hooded lantern was found by looters in the abandoned castle of Zagig Yragerne, the Mad Archmage. Exactly why he used it remains a mystery, though many people suspect that it served as a guard against the supernatural creatures with which he dealt. Once per day, the lantern can shine a magical light for one turn. This light renders visible all invisible, out-of-phase, and ethereal creatures in a 50' radius. The ethereal creatures will then be visible as transparent, ghost-like entities.</p><p>This light also automatically turns any undead as a 15th</p><p class=\"gh-src\">GA p.81. X.P. value 3,000; G.P. value 25,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Locket of the Great Kingdom",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.81",
+      "xp": "3,500",
+      "gpValue": "25,000",
+      "category": "misc",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This item was created by a wizard who greatly feared death. It has since been used by two or three other spellcasters, though usually at the expense of another living creature. Under stress the locket makes saving throws as a hard metal.</p><p>When the command word is spoken, the locket draws in the magic-user's psyche (soul) and holds it safe. If the character later dies, his or her life force travels to the locket (cf. magic jar spell). If the owner is on a different plane than the locket, his life force has 7 days to return to locket or the psyche departs to the outer plane of the character's alignment. Once the life force is in the locket, it is aware of events that occur in a 50' radius, though it cannot communicate with creatures that are not telepathic or have appropriate spell abilities. If the locket is destroyed while containing a psyche but no life force, the psyche is utterly and irrevocably annihilated; but if it is destroyed while containing the life force, the psyche travels to the outer plane of the character's alignment, allowing resurrection.</p><p>The locket allows the life force three spell-like abilities, each usable once per day: animate dead (a single skeleton or body only), magic jar (as the magic-user's spell), and feeblemind, at the user's own level. Note that an animated body (zombie) or skeleton has all the characteristics of the monster, but has the user's intelligence. Also, a zombie that is animated for more than 60 days must save versus death each additional day or turn into a skeleton.</p><p class=\"gh-src\">GA p.81. X.P. value 3,500; G.P. value 25,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Medallion of Malog",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.81",
+      "xp": "1,500",
+      "gpValue": "7,500",
+      "category": "misc",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Hung on a golden necklace, this medallion was created in the evil temples of the capital of the Horned Society. It allows any magic-user with a minimum of 12 intelligence and 10 wisdom to perform a monster summoning V spell once per week.</p><p class=\"gh-src\">GA p.81. X.P. value 1,500; G.P. value 7,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Medegian Bracelet of Lost Ships",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.82",
+      "xp": "1,500",
+      "gpValue": "15,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This silver disk contains a zircon stone that was enchanted by a greedy wizard who used it to attain great wealth before he was captured and hung by pirates.</p><p>The stone in the bracelet glows red on the side that faces the nearest sunken ship within 1 mile. When the gem enters within 50' of horizontal (not vertical) distance from a sunken ship, the stone glows blue. When the command word is spoken, the bracelet causes the sunken ship to rise to the surface for 2 turns.</p><p>The bracelet has up to 25 charges and cannot be recharged. The detection ability drains no charges, but raising a sunken ship drains a number of charges depending on the size of the ship:</p><table class=\"gh-list\"><thead><tr><th>Ship</th><th>Charges</th></tr></thead><tbody><tr><td>Small boat or barge</td><td>1</td></tr><tr><td>Small galley</td><td>3</td></tr><tr><td>Large galley</td><td>4</td></tr><tr><td>Small merchant ship</td><td>4</td></tr><tr><td>Warship</td><td>5</td></tr><tr><td>Large merchant ship</td><td>6</td></tr></tbody></table><p>For each sunken vessel found, there is a 25% chance that 1-6 other lost ships lie in the same area. Only one ship can be raised at a time. Each vessel has a 75% chance of being inhabited by a random monster. Lost ships tend to consist mostly of rotting wood covered with seaweed. Each character who boards a raised ship has a 20% chance per turn of taking 1-6 damage from falling through unstable floorboards (optional dexterity check to avoid damage). Note also that a ship broken into several fragments may require several separate charges, and that a badly shattered ship may not be recoverable by this means.</p><p class=\"gh-src\">GA p.82. X.P. value 1,500; G.P. value 15,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Necklace of Almor",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.82",
+      "xp": "--",
+      "gpValue": "2,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Appearing as a rusted, worthless piece of jewelry, this item was enchanted by a spiteful wizard who wore the it all of his life. Ironically, his peaceful death did not activate its vengeful powers. Other wearers have since used it.</p><p>The item is cursed, it cannot be removed once it is put on except with the aid of a remove curse spell. Its magic takes effect only if an intelligent creature causes the wearer's violent death. Nine days after death, the wearer rises as a walking corpse, whose single goal is to destroy those responsible for its death. It will ignore any except those who interfere with it, and then only until the interference ends.</p><p>The power of the item animates the body, allowing it to regenerate damage as a troll (3 hp per round), or to animate a fresh body nearby if the original body was destroyed. The animated corpse is immune to clerical turns, holy water, or other clerical items; the only sure way to destroy the body is to burn it to ashes.</p><p>For purposes of combat, the animated corpse will have 8 hit dice, and will attack by strangling for 2d8 points of damage, which is continuous once the initial attack succeeds. It single mindedly attacks the creature responsible for its death.</p><p>Although all damage will be eventually regenerated (or another body taken), the corpse will show an irreversible process of decay. After 15 days, during which the wearer will try to take his revenge, the character's psyche can no longer remain and will depart forever from the Prime Material Plane; neither reincarnation nor resurrection is possible once this occurs.</p><p>There is a 50% chance that the wearer will transfer his vengence to others than the creature responsible for its death, under the following conditions: 1) the others were with the primary subject when the wearer was killed, 2) the others aided the primary subject and were present when the primary subject was slain, and 3) the others slew the primary subject, frustrating the wearer's desire for revenge. Otherwise, the wearer departs when his vengence is completed or his time runs out.</p><p class=\"gh-src\">GA p.82. X.P. value --; G.P. value 2,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Oracles of Greyhawk",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.82",
+      "xp": "2,000",
+      "gpValue": "12,000",
+      "category": "misc",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Appearing to be crystal balls with slight tinges of color, these were created many years ago for the then-Lord Mayor. However, no one is sure how many oracles are still in the government's possession, and how many have been lost or stolen.</p><p>The oracles can be asked one question per day, as if the magic-user was consulting a sage (see DMG.) There are seven known oracles:</p><table class=\"gh-list\"><thead><tr><th>Color</th><th>Area of Knowledge</th></tr></thead><tbody><tr><td>red</td><td>Horned Society</td></tr><tr><td>orange</td><td>Wild Coast</td></tr><tr><td>yellow</td><td>Kingdom of Furyondy</td></tr><tr><td>green</td><td>Gnarley Forest</td></tr><tr><td>blue</td><td>Shield Lands</td></tr><tr><td>violet</td><td>City of Greyhawk</td></tr><tr><td>brown</td><td>Cairn Hills</td></tr></tbody></table><p>Possible questions might include populations of humans and demi-humans, numbers and types of troops, types of monsters, and special knowledge categories (see DMG) listed under Humankind, Demi-humankind, Fauna, and Flora. Each question may be considered to be in the oracle's major field unless the question pertains to a different geographical area or to a field of study not listed above. Due to the alignment of the items' creator, the chance of knowing an answer is also affected by the questioner's alignment:</p><table class=\"gh-list\"><thead><tr><th>Alignment</th><th>Modifier</th></tr></thead><tbody><tr><td>lawful</td><td>+10%</td></tr><tr><td>chaotic</td><td>-10%</td></tr><tr><td>good</td><td>+10%</td></tr><tr><td>evil</td><td>-15%</td></tr><tr><td>neutral</td><td>+25%</td></tr></tbody></table><p>These modifiers are cumulative.</p><p class=\"gh-src\">GA p.82. X.P. value 2,000; G.P. value 12,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Paints of Blackmoor",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.82",
+      "xp": "300",
+      "gpValue": "2,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This set of multi-colored paints was enchanted when the city of Blackmoor was in full power. After the city and castle fell into ruin, the magic-user used the paints to insure his own survival in the hostile land.</p><p>Each set has five applications of each color. Each color comes in a tiny jar held in a box of holding (as the smallest bag of holding). The paint is applied all over the body of the user and lasts for 24 hours. During this time its effects can only be taken away by a remove curse.</p><p>Red: transforms the user into a 7th level fighter with an</p><p>AC of 2, a two-handed sword +1, and 70 hit points. Blue: transforms the user into a 7th level cleric with an AC of 3, a footman's mace +2, and 60 hit points. Spells should be selected immediately: 3-1st, 3-2nd, 2-3rd, 1-4th.</p><p>Green: transforms the user into a 7th level ranger with an AC of 4, a longbow +3, and 55 hit points.</p><p>Black: transforms the user into a 7th level thief with an AC of 5, a dagger +2, and 32 hit points.</p><p>White: transforms the user into a 7th level paladin with an AC of 1, a long sword +3, and 67 hit points.</p><p>Brown: Transforms the user into a 7th level druid with an AC of 6, a quarter staff +2, and 44 hit points.</p><p>Using the paints twice in a 24 hour period results in instant death for the user. Upon return to normal the user regains Idl2 lost hit points. For purposes of operating in the assumed class, all ability scores are treated as at least the minimum starting scores required for the class for the duration of the effect. A transformed character has all the memories of the original character but the have the powers of the new class. Failure to adhere strictly to the limits of the assumed class will break the magic and restore the original form. A transformed character is proficient in the new weapon magically acquired (which vanishes with the effect) and in any weapons they might have known before the transformation. (Note: X.P. value and g.p. value are per pot of color.)</p><p class=\"gh-src\">GA p.82. X.P. value 300; G.P. value 2,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Prism of Greyhawk",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.83",
+      "xp": "1,000",
+      "gpValue": "4,500",
+      "category": "misc",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This crystal sorcerer's tool was enchanted to enhance the prism's ability to create dazzling colors. The prism can cast two spells, each once per day: color spray (as a 6th-level spell caster) and hypnotic pattern. Note that the prism must be used in the presence of direct sunlight. It cannot be used under moonlight, normal torchlight, or daylight on an overcast day.</p><p class=\"gh-src\">GA p.83. X.P. value 1,000; G.P. value 4,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Purple Gem of the Vesve Forest",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.83",
+      "xp": "3,000",
+      "gpValue": "35,000",
+      "category": "misc",
+      "usable": "F",
+      "description": "<p><em>Usable by: F</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Set in a silver bracelet, this magical gemstone has occasionally been used by the elven wizards who created it. However, the King of Furyondy refuses to admit the gem's existence because he prefers that elven warriors join his own infantry, not form troops outside his command.</p><p>The gem allows a sylvan or high elf to summon an elven army for a single declared purpose. The user can raise a number of elves equal to his or her age. This army takes a week to gather and can be kept together only as long as the stated goal is still in effect. In addition to the lesser members of the army, the summoner will gain seven aides: two magic-users, two clerics, and three rangers 1-3 levels lower than the user's level.</p><p class=\"gh-src\">GA p.83. X.P. value 3,000; G.P. value 35,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Robe of Veluna",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.83",
+      "xp": "2,000",
+      "gpValue": "10,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Enchanted by a wizard who enjoyed the luxuries of wealth, this purple garment gives its wearer the physical appearance of nobility: well-groomed hair, clean skin, and rich, colorful clothes of silk and fine wool. The character's charisma rises by 2 points (to racial maximum), and he or she will tend to be treated with respect by members of a civilized society (i.e. a +15% reaction by NPCs below Upper Middle Class). However, etiquette and social graces are left to the character's intelligence, charisma, and training.</p><p>In trading with others the robe gives its wearer a 20% chance to make a more favorable deal.</p><p class=\"gh-src\">GA p.83. X.P. value 2,000; G.P. value 10,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Scarf of the Dry Steppes",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.83",
+      "xp": "2,000",
+      "gpValue": "12,500",
+      "category": "misc",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This brown garment was enchanted by an evil wizard who used it against the dervishes of the Dry Steppes. Though the dervishes eventually caught and imprisoned the magic-user, they never found the item, and so it disappeared into the wasteland, possibly into the hands of the nomads or tribesmen who frequent the land.</p><p>Once per week the scarf allows a magic-user to summon</p><p>1d4 invisible stalkers. The summoner must save versus spell to control the creatures, at -5 if good-aligned and at +2 if evil-aligned. If the saving throw fails, then the stalkers will attack if the summoner is good; otherwise they will depart. If the saving throw is successful, the magic-user can command a service that can be carried out within 200 miles.</p><p class=\"gh-src\">GA p.83. X.P. value 2,000; G.P. value 12,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Sceptre of the Forgotten City",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.83",
+      "xp": "1,000",
+      "gpValue": "5,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>A relic of a lost civilization, this wand-like sceptre is a 2' long shaft of silver with a large red gem at the tip. It was used by some of the original lords of the Suel Imperium, and when that kingdom was burned into the Sea of Dust, the wand was lost. A recent expedition from Yeomanry rediscovered the wand, and those explorers claimed that it came from the Forgotten City itself. Whether or not that claim is true, the sceptre certainly contains some of the greatness that built the lost empire, and much of the madness that destroyed it.</p><p>When the command word is spoken, the holder of the sceptre receives a bonus of two wisdom points and four charisma points (to racial maximums) for 4 + 1d6 days. He must then make a successful saving throw versus spell or become confused until a remove curse is received; this will also remove the beneficial effects of the sceptre.</p><p>The sceptre has 5-11 charges (2d4 +3). Each use costs one charge, and the sceptre cannot be recharged. A character who attempts to use the sceptre more than once per week must save versus spell or lose four intelligence points permanently, and then must make a successful system shock survival check or die.</p><p class=\"gh-src\">GA p.83. X.P. value 1,000; G.P. value 5,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Silver Crown of Veluna",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.83",
+      "xp": "2,000",
+      "gpValue": "22,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Encrusted with small green gems, this item recently appeared among the ruling clerics of Veluna. The Canon himself has often worn it, though he may sometimes loan it to trusted agents of Veluna when they embark on important, holy missions.</p><p>The crown radiates protection from evil when worn by a lawful character. A lawful good or neutral good character receives +4 wisdom (to racial maximum) while the crown is worn. A lawful evil character who wears the crown temporarily has a -4 wisdom penalty, while a neutral evil character has a -2 penalty. A chaotic evil character cannot use the crown at all.</p><p class=\"gh-src\">GA p.83. X.P. value 2,000; G.P. value 22,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Star of Celene",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.83",
+      "xp": "500",
+      "gpValue": "2,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Set on a silver necklace, this golden medallion was given as a gift to a halfling thief who performed great services for high elves in Celene. The item was intended for use by the halfling and his family and friends, though no one knows who has it now.</p><p>The star gives a good-aligned wearer a +20% reaction bonus from NPC elves. This bonus is halved for elves above 4th level, and negated for elves above 8th level. The star causes an evil-aligned wearer 1 point of electrical damage per touch and will not function.</p><p class=\"gh-src\">GA p.83. X.P. value 500; G.P. value 2,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Storm Rider of the Gearnat Sea",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.84",
+      "xp": "5,000",
+      "gpValue": "50,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This large merchant ship is enchanted to withstand the violent storms and huge waves of the Sea of Gearnat in spring and autumn. Many merchants gathered their wealth to pay the wizard who enchanted it. A bloody fight erupted afterwards when the deed of ownership mysteriously disappeared. Now the Storm Rider is an item for anyone strong enough to take it and crafty enough to keep it. The vessel ignores the effects of storms sailing as if in a brisk breeze at all times. Waves flatten out when the keel touches them and the effects of rain or snow do not touch any part of the ship.</p><p class=\"gh-src\">GA p.84. X.P. value 5,000; G.P. value 50,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Tapestry of Ekbir",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.84",
+      "xp": "1,250",
+      "gpValue": "12,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This 10' X 15' woven tapestry displays a scene of a dark river in a bleak, rocky landscape. The tapestry was intended to be a gate from Ekbir to the lower planes for disposal of its worst criminals. It is rumored, however, that the tapestry actually opens into a previously undiscovered plane and not one of the lower planes, although the landscape is bleak enough.</p><p>The command word causes a branch of the river to enter the Prime Material Plane. The water rushes out from the tapestry and forms a 10' wide, 5' deep river. It flows for 50' before vanishing back into the plane that it normally occupies. The river exists in the Prime Material Plane for 3 turns, and can only be summoned once per month. The water is brackish and evil-smelling, and the current is swift and strong.</p><p>A character who enters the river must make a strength</p><p>check or be swept along with the water. This check must be made every five rounds, or once per 10' of the river traveled by swimming, whichever comes first. A character who fails the check in the last 10' of the river is carried through the gate into the land beyond and cannot return back through the gate.</p><p class=\"gh-src\">GA p.84. X.P. value 1,250; G.P. value 12,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Tiger Cloak of Chakyik",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.84",
+      "xp": "1,500",
+      "gpValue": "12,500",
+      "category": "misc",
+      "usable": "C, F, T",
+      "description": "<p><em>Usable by: C, F, T</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Fashioned from the complete hide of an adult tiger, this cloak includes a tiger-head cap, skin, and claws dangling at the sides. It was the favorite magical item of the Tiger Lord and the lesser khans, until it disappeared.</p><p>The cloak gives the wearer a + 20% reaction from Tiger Nomads, but a -50% reaction from Wolf Nomads and tribes of the Burneal Forest. In melee, the wearer of the cloak enters a berserk rage and gains a +3 strength (+50% for fighters with 18 strength) to racial maximums, but loses any dexterity bonus to his armor class. If he or she wishes to cease fighting while live enemies are in sight, the character must save versus spell or continue to attack.</p><p class=\"gh-src\">GA p.84. X.P. value 1,500; G.P. value 12,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Timeglass of the Mage",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.84",
+      "xp": "5,000",
+      "gpValue": "50,000",
+      "category": "misc",
+      "usable": "M",
+      "description": "<p><em>Usable by: M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Appearing to be a 1' tall hour glass, this magical item made its sudden appearance in the hands of an adventurer who had forced his way into the Valley of the Mage. He returned with only the timeglass and the scars of many dangerous encounters. Since then, the timeglass has been sought by many spell- casters because of its reputed powers, which are rumored to be as follows:</p><p>1. Vanish time. Time itself will bypass a 30' cubic area for 1 hour per 1 charge expended. Subjective time does not pass for those within the area, and they simply appear to vanish for the intervening time. They reappear at the end of the duration set by the number of charges expended.</p><p>2. Ageless casting. If the timeglass is held while casting a spell that would normally age the caster (such as gate or wish), the spell will instead drain 1 charge from the timeglass for each year the caster would have aged.</p><p>3. Restore youth. Youth can be restored to the the wielder or any creature of his choice upon command. The process drains 1 charge from the timeglass and one level from the wielder, and will restore 2 years of youth to the subject creature. The level given up cannot be restored, (doing so will cancel the time reversal); the level must be earned anew.</p><p>4. Secondary power. Once per 24 hour period, the owner can invert the timeglass and command one of the following spell effects to occur: time stop, haste, slow, or part water. Each use ages the wielder 1 year, except timestop, which ages the wielder 2 years.</p><p>The timeglass has up 25 charges and is not rechargeable. When the last charge is expended, it shatters into useless fragments. Note: It is rumored that this device is of extra- planar origin and cannot be constructed on the Prime Material Plane.</p><p class=\"gh-src\">GA p.84. X.P. value 5,000; G.P. value 50,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Turbans of Tusmit",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.84",
+      "xp": "see the table",
+      "gpValue": "see the table",
+      "category": "misc",
+      "usable": "C, M",
+      "description": "<p><em>Usable by: C, M</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>These colorful garments have been used for many purposes in Tusmit. Some of these turbans have led their owners to great wealth and fame, while others have caused their owners horrible suffering.</p><p>Each turban can summon one of the geniekind each week. The genie's reaction and the course of the action is decided in play. There are five turbans, each of a different color:</p><table class=\"gh-ref\"><thead><tr><th>Turban</th><th>X.P.</th><th>Value</th></tr></thead><tbody><tr><td>Brown turban of jann summoning</td><td>500</td><td>2,000 g.p.</td></tr><tr><td>Grey turban of djinni summoning</td><td>1,000</td><td>3,000 g.p.</td></tr><tr><td>Black turban of dao summoning</td><td>1,000</td><td>2,000 g.p.</td></tr><tr><td>Red turban of efreeti summoning</td><td>1,000</td><td>2,500 (printed \"x.p.\")</td></tr><tr><td>White turban of marid summoning</td><td>1,500</td><td>3,000 g.p.</td></tr></tbody></table><p>The summoned genie must obey the first order of the turban wearer. From then on there is a 5% cumulative chance per additional order (over the life of the turban) that the summoned genie may ignore the order and instead attack the summoner. There is no way to tell how many times each turban has been used. If the genie associated with the turban is killed, the turban is useless.</p><p class=\"gh-src\">GA p.84. X.P. value see the table; G.P. value see the table. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Tusmit's Battle Crescent",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.86",
+      "xp": "1,000",
+      "gpValue": "18,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Set in a golden necklace studded with gems, this medallion is a prized possession among the rulers of the northwest. A warlord will gladly pay the full price for it, though a treacherous lord might send his thieves and assassins to retrieve the payment.</p><p>Once in every 24 hour period, the character can receive a +2 (or 10%) bonus on any single combat-related die roll. The decision to take the bonus must be made before the die is rolled.</p><p>The crescent also protects the wearer from all normal</p><p>missiles, and all weapons striking the wearer are at -1 to hit and damage.</p><p class=\"gh-src\">GA p.86. X.P. value 1,000; G.P. value 18,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Whistle of Axewood",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.86",
+      "xp": "3,500",
+      "gpValue": "32,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This silver instrument was created by elven wizards for use by young human and elven maidens. Anyone who successfully uses the whistle gains the respect of the demi-humans of Axewood, while any rumor of its misuse will draw the wrath of many angry elves, gnomes, and halflings.</p><p>Once per month the whistle can summon 2-5 unicorns. The unicorns make a reaction check with the following cumulative modifiers:</p><p>The summoner is good-aligned +10% The summoner is human or elven +10% The summoner is a sprite, dryad, etc. +30%</p><p>If summoner or companions are evil or if the reaction is poor, the unicorns immediately leave. If they stay, a good-aligned human or elven maiden of pure heart can attempt to tame one of them for use as a steed. To the base 25% chance, add 2% for each point of the character's intelligence, wisdom, and charisma over 15. Also add the following cumulative modifiers:</p><p>The maiden is a ranger or cleric +10% She is not alone -5% per companion She was once evil-aligned - 20%</p><p>Thus, a maiden ranger with an 18 charisma and one companion would have a 36% chance to tame a unicorn (25 + 6 + 10 - 5 = 36).</p><p class=\"gh-src\">GA p.86. X.P. value 3,500; G.P. value 32,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Wings of the Rakers",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.86",
+      "xp": "1,000",
+      "gpValue": "9,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This white cloak was enchanted by a wizard who found a welcome home among the Griff Mountains and the Rakers. He especially enjoyed his time among the aarakocra bird people, and so he created this item to enhance his encounters with them. When he neared his natural death and returned to his home in Theocracy of the Pale, he passed the cloak on to a trusted friend, and it has gone from character to character since. The cloak acts as wings of flying, except that wings of the rakers take the appearance of white seagull wings. The cloak also gives its wearer the ability to speak and understand the language of the aarakocra, and to mimic their diving attack maneuver. A good-aligned wearer receives a +20% reaction bonus from the aarakocra, but an evil-aligned wearer receives a - 20% penalty.</p><p class=\"gh-src\">GA p.86. X.P. value 1,000; G.P. value 9,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Wolf Cloak of Wegwiur",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.86",
+      "xp": "2,000",
+      "gpValue": "15,000",
+      "category": "misc",
+      "usable": "C, F, T",
+      "description": "<p><em>Usable by: C, F, T</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This magical cloak was made from the hide of a winter wolf, and includes a wolf-head cap, pelt, claws, and tail. It was enchanted by a cleric of the Wolf Nomads, and since then has served as a tool for those who seek the swift, sleek power of wolves.</p><p>The cloak gives the wearer a +20% reaction from the</p><p>Wolves of the Prairies, but a -50% reaction from Tiger Nomads. In melee, the wearer gains 3 wisdom and 4 dexterity points (to racial maximums). If a character wears this cloak at night in the light of the moon, he or she can turn into a winter wolf (with average statistics) ld4+3 hours.</p><p class=\"gh-src\">GA p.86. X.P. value 2,000; G.P. value 15,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Woodworker's Tools of Dyvers",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous magic (GA)",
+    "system": {
+      "source": "GA p.86",
+      "xp": "2,000",
+      "gpValue": "24,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This set of magical hammers, spikes, axes, chisels, files, and other tools was created for a carpenter in the City of Dyvers, and though he payed much gold for it, the set eventually brought him great wealth. It allows a character with carpentry proficiency to build very sturdy wooden constructions with 150% of normal defensive point values. Consequently, the carpenter receives double to triple the usual fees, or a weekly average of 50 to 75 g.p. X.P. value: 2,000 x.p.</p><p class=\"gh-src\">GA p.86. X.P. value 2,000; G.P. value 24,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Blue Armor of the Crystalmist Mountains +3",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Armor and shields (GA)",
+    "system": {
+      "source": "GA p.86",
+      "xp": "3,000",
+      "gpValue": "17,500",
+      "category": "misc",
+      "usable": "F",
+      "description": "<p><em>Usable by: F</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>Cut from the hide of an adult blue dragon, this set of chain mail +3 was fashioned for use by the mountain dwarves of the area. The armor can be loosely hung on a human-sized character, though the character loses all dexterity bonuses to his or her armor class, and fights at -2 \"to hit.\" Aside from the armor class bonus, the wearer saves against electrical attacks for half damage or none.</p><p class=\"gh-src\">GA p.86. X.P. value 3,000; G.P. value 17,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Goblin Shield of the Pomarj +2",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Armor and shields (GA)",
+    "system": {
+      "source": "GA p.86",
+      "xp": "1,250",
+      "gpValue": "7,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This metal shield bears the coat of arms of goblins in the Pomarj: the red face of a medusa. Its creator is unknown, though rumors indicate a weak and treacherous wizard who sought his own safety during the invasion of humanoids from the Lortmil Mountains. Now the shield is found only in the hands of a goblin chief. While giving a +2 bonus to its wielder's armor class, the shield can cast flesh to stone (reverse of stone to flesh) once per day.</p><p class=\"gh-src\">GA p.86. X.P. value 1,250; G.P. value 7,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Keolish Plate Mail of the Seas +1",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Armor and shields (GA)",
+    "system": {
+      "source": "GA p.87",
+      "xp": "1,500",
+      "gpValue": "7,500",
+      "category": "misc",
+      "usable": "C, F",
+      "description": "<p><em>Usable by: C, F</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This mail armor was given by the King of Keoland to an admiral who had fought successfully against the Sea Princes. It is plate mail +1, and also stays afloat in water, negating the chance for its wearer to sink in mild or slightly choppy water. The wearer can tread water indefinitely, but cannot dive underwater more than two feet. Swimming speed is not affected by this armor.</p><p class=\"gh-src\">GA p.87. X.P. value 1,500; G.P. value 7,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Red Armor of the Hellfurnaces +4",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Armor and shields (GA)",
+    "system": {
+      "source": "GA p.87",
+      "xp": "6,000",
+      "gpValue": "35,000",
+      "category": "misc",
+      "usable": "C, F",
+      "description": "<p><em>Usable by: C, F</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This blood-red armor was cut from the back plates of an adult red dragon. Many warriors from the Yeomanry died in the battle to kill the creature, and the best dwarven armorers were hired to rework the plates into a wearable suit. The final product is a set of plate mail +4 that allows its wearer to save against fire-based attacks for half or no damage. Red dragons seeing this armor will make unusual efforts to kill the wearer.</p><p class=\"gh-src\">GA p.87. X.P. value 6,000; G.P. value 35,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Shield of Greyhawk +3",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Armor and shields (GA)",
+    "system": {
+      "source": "GA p.87",
+      "xp": "1,050",
+      "gpValue": "10,500",
+      "category": "misc",
+      "usable": "F",
+      "description": "<p><em>Usable by: F</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This metal shield bears Greyhawk's coat of arms, and was created by the Society of the Magi. It now hangs in the audience hall of the Lord Mayor's mansion, and is well guarded. As well as giving its user a +3 armor class bonus, the shield can cast dispel evil as a 9th-level cleric, once per day.</p><p class=\"gh-src\">GA p.87. X.P. value 1,050; G.P. value 10,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Thillonrian Shield of Berserking +2",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Armor and shields (GA)",
+    "system": {
+      "source": "GA p.87",
+      "xp": "1,200",
+      "gpValue": "12,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>A prized magical item to fighters in the Thillonrian Peninsula (home of Frost, Ice, and Snow Barbarians), this shield gives a +2 bonus to the wielder's armor class. Its greatest benefit, however, appears during mass combat. When held by a commander, at least half of whose troops are barbarians, the command word can cause the shield to cast a spell of berserking on up to 200 warriors in the commander's troops. Those warriors gain a +2 bonus to their attack rating and never need to check morale. They also have a discipline rating of 0 and will not enter a closed formation.</p><p class=\"gh-src\">GA p.87. X.P. value 1,200; G.P. value 12,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "White Armor of the Griff Mountains +3",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Armor and shields (GA)",
+    "system": {
+      "source": "GA p.87",
+      "xp": "2,250",
+      "gpValue": "13,500",
+      "category": "misc",
+      "usable": "C, F",
+      "description": "<p><em>Usable by: C, F</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>After tribesmen of the Griff Mountains slew an adult white dragon, they sold the hide to the dwarven armorers who created this suit of scale mail +3. The dwarves created it for a human-sized wearer, though a dwarf or halfling can wear it at a penalty of -1 to his or her armor class; thus the total AC modifier is +2. The white armor also gives the wearer to save versus cold-based attacks for half damage or none.</p><p class=\"gh-src\">GA p.87. X.P. value 2,250; G.P. value 13,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Equalizer of Gran March",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Swords (GA)",
+    "system": {
+      "source": "GA p.87",
+      "xp": "10,000",
+      "gpValue": "50,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Also known as the Sword of Neutrality, this silver long sword is a tool for the balancing powers of the universe. Its creator desired that it be used to equalize (or, more accurately, to terminate) the extremes of nature, shifting the universe closer to the true neutral alignment. Only a character of true neutral alignment can fully use this sword. In the hands of such a character, the weapon is treated as a +3 weapon when determining what can be hit by it, even though its \"to hit\" and damage bonuses are but +1. In the hand of a true neutral character, the sword receives special combat modifiers according to the opponent's alignment:</p><table class=\"gh-list\"><thead><tr><th>Opponent's Alignment</th><th>\"To Hit\"</th><th>Damage</th></tr></thead><tbody><tr><td>lawful neutral, chaotic neutral</td><td>+1</td><td>+2</td></tr><tr><td>neutral good, neutral evil</td><td>+2</td><td>+4</td></tr><tr><td>lawful good, chaotic good, lawful evil, chaotic evil</td><td>+3</td><td>+6</td></tr></tbody></table><p>Each time an opponent of an extreme alignment is struck, the creature must make a saving throw versus spells or be disintegrated. Against true neutral opponents the sword receives only the bonuses of a long sword +1.</p><p class=\"gh-src\">GA p.87. X.P. value 10,000; G.P. value 50,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Flying Scimitar of Tusmit +3",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Swords (GA)",
+    "system": {
+      "source": "GA p.87",
+      "xp": "8,000",
+      "gpValue": "40,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Forged in preparation for a possible war against Ekbir, this enchanted weapon is used only by the Pasha's most trusted war-ministers. When used in combat it gains +3 \"to hit\" and damage. It can also be thrown (minimum range: 10', maximum range: 30'). When thrown, the scimitar spins like a razor-edged propeller and strikes as a sword of sharpness. It returns to the thrower's hand the next round. Anyone else who attempts to catch the flying sword must make a saving throw versus death ray or lose the member. There will be no effect on the weapon's flight.</p><p class=\"gh-src\">GA p.87. X.P. value 8,000; G.P. value 40,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Rel Astran Sword of Enmity +1, +3 vs. Racial Enemies",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Swords (GA)",
+    "system": {
+      "source": "GA p.87",
+      "xp": "750",
+      "gpValue": "3,750",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This long sword was enchanted for a paladin from the City of Rel Astra. The weapon has a normal bonus of +1 \"to hit\" and damage in melee. However, it also raises the wielder's attack and damage rolls by an additional +2 when used against racially hated opponents. Examples of those gaining the bonus include: paladins against chaotic evil creatures, rangers against giant-class creatures, barbarians against magic-users, elves against driders and drow elves, and so on.</p><p class=\"gh-src\">GA p.87. X.P. value 750; G.P. value 3,750. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Stonefist Sword of Rage +2",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Swords (GA)",
+    "system": {
+      "source": "GA p.87",
+      "xp": "1,000",
+      "gpValue": "5,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This two-handed sword was enchanted during the reign of Vlek Col Vlekzed. No one is sure if Vlek wielded it himself, though the warriors of the Hold of Stonefist stubbornly (and violently) claim so. No one doubts that the weapon contains the strength and ferocity upon which Vlek built his domain.</p><p>Aside from its normal +2 bonus to attack and damage rolls, the sword allows the wielder to voluntarily enter a state of mindless rage. While enraged, the character gains an additional +1 \"to hit,\" +3 damage, and an additional</p><p>+2 hit points per level. (Note: These bonus hit points are lost to damage before the character's own hit points, cf. potion of heroism.) However, the character also loses any dexterity bonuses to his or her armor class, and cannot control the rage until he or she makes a save versus spell (one attempt per round).</p><p class=\"gh-src\">GA p.87. X.P. value 1,000; G.P. value 5,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Sword of the Wild Coast +3",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Swords (GA)",
+    "system": {
+      "source": "GA p.88",
+      "xp": "--",
+      "gpValue": "1,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This cursed two-handed sword was enchanted by a bitter magic-user to expose the \"true inner personalities that all warriors possess\".</p><p>This weapon causes its owner to save versus spell or become neutral evil and a lover of battle. Modifiers to the saving throw depend on the victim's class:</p><p>paladin +6 ranger +3 fighter or thief -3</p><p>If the saving throw is failed, the wielder will always be looking for a fight and always fighting to the death. If he sees a fight or a drawn weapon, he seldom resists the urge to enter battle. Even the threat of combat causes him to make a wisdom check or immediately attack. The character can be released only by a remove curse spell. If a character dies while under this curse, his psyche travels to the outer plane of Acheron, never to return.</p><p>Any character can attempt to wield this weapon, but one who is not neutral evil does not receive its magical bonuses. Also, a good-aligned character takes 1-4 points of electrical damage per use of it.</p><p class=\"gh-src\">GA p.88. X.P. value --; G.P. value 1,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Warlord Blade of the Shield Lands",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Swords (GA)",
+    "system": {
+      "source": "GA p.88",
+      "xp": "1,600",
+      "gpValue": "8,000",
+      "category": "misc",
+      "usable": "F",
+      "description": "<p><em>Usable by: F</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>This magical broadsword +2 increases its possessor's leadership ability in combat. Thus, a Commander's charisma is considered to be 18, giving a +2 morale modifier to troops under his command. The sword also doubles his or her command radius and gives his or her troops a +2 discipline modifier.</p><p class=\"gh-src\">GA p.88. X.P. value 1,600; G.P. value 8,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Axe of Sulward +2",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous weapons (GA)",
+    "system": {
+      "source": "GA p.88",
+      "xp": "400",
+      "gpValue": "2,250",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Magically sharpened to aid woodsmen in cutting the rare woods to be exported from the Lordship of the Isles, this axe can also serve as a valuable weapon. Though it causes damage as a battle axe +1, its +2 bonus is gained only against wooden objects and plants. On a roll 4 higher than the required \"to hit\" roll, the axe destroys an opponent's wooden shield.</p><p class=\"gh-src\">GA p.88. X.P. value 400; G.P. value 2,250. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Black Arrow of Iuz +3",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous weapons (GA)",
+    "system": {
+      "source": "GA p.88",
+      "xp": "750",
+      "gpValue": "7,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Carved from the bone of a black dragon, this enchanted arrow strikes at +3 \"to hit\" and damage. The arrow reappears in the owner's quiver each dawn after it is used, i.e. this item is permanent unless lost to a special attack form, deliberately destroyed, etc. Once per day, an archer can call upon its deadly powers, causing the target to save versus death magic or die immediately.</p><p>Good-aligned characters save at -2. This power must be summoned before the arrow is shot, and a miss wastes its killing magic for that day.</p><p class=\"gh-src\">GA p.88. X.P. value 750; G.P. value 7,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Cord of Ekbir +1",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous weapons (GA)",
+    "system": {
+      "source": "GA p.88",
+      "xp": "450",
+      "gpValue": "4,500",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Since strangulation is the favorite attack method of assassins and thieves in the civilized northwest, a magical garrote was destined to appear in the hands of Ekbiran murderers. This black cord strikes at +1 \"to hit,\" and forces the victim to save versus spell or be stunned and unable to resist the attack.</p><p class=\"gh-src\">GA p.88. X.P. value 450; G.P. value 4,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Iron Gauntlet of Urnst",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous weapons (GA)",
+    "system": {
+      "source": "GA p.88",
+      "xp": "2,000",
+      "gpValue": "12,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>This item was created by an iron-fisted wizard who wanted a magical item to symbolize his philosophy of life. It is a leather gauntlet covered with flat iron plates on the upper surface. When used in melee combat, the wearer has one attack per round at +2 \"to hit.\" Damage inflicted is determined as per the following table:</p><table class=\"gh-list\"><thead><tr><th>Die Roll</th><th>Result</th></tr></thead><tbody><tr><td>1-12</td><td>glancing blow: 1d6 points</td></tr><tr><td>13-16</td><td>solid punch: 2d6 points</td></tr><tr><td>17-19</td><td>hard punch: 3d6 points and opponent is stunned next round</td></tr><tr><td>20</td><td>crushing blow: 4d6 points and opponent is stunned for next 3 rounds</td></tr></tbody></table><p>Add +4 to the next \"to hit\" and result rolls against a stunned opponent instead of +2.</p><p class=\"gh-src\">GA p.88. X.P. value 2,000; G.P. value 12,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Razor Claws of Chakyik +2",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous weapons (GA)",
+    "system": {
+      "source": "GA p.88",
+      "xp": "1,500",
+      "gpValue": "7,500",
+      "category": "misc",
+      "usable": "F, T",
+      "description": "<p><em>Usable by: F, T</em> (C clerics, F fighters, M magic-users, T thieves; sub-classes may use their major class's items).</p><p>These were created by a magic-user loyal to the Tiger Lord of the northwest. Always appearing in pairs, each razor claw of the set consists of four curved daggers attached to a leather gauntlet. The weapon gives +2 \"to hit\" and 1d6+2 damage, and requires no special proficiency for use. When both claws are used at once, the character has two attacks per round if his or her class level does not already allow it.</p><p class=\"gh-src\">GA p.88. X.P. value 1,500; G.P. value 7,500. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Trident of the Oljatt Sea +2",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous weapons (GA)",
+    "system": {
+      "source": "GA p.88",
+      "xp": "1,500",
+      "gpValue": "12,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>Rumored to be a weapon of sahuagin fighters, this weapon gives a bonus of +2 \"to hit\" and damage. Once per turn, it can fire a jet of steam in an area 60' long, 20' high, and 20' wide. The steam inflicts 6-36 points of damage (6d6), half if a successful saving throw versus spell is made. When fired under water, the steam travels only half the distance, and causes half damage (a saving throw for one-quarter damage is applicable).</p><p class=\"gh-src\">GA p.88. X.P. value 1,500; G.P. value 12,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  },
+  {
+    "name": "Whip of Zeif +3",
+    "type": "magic",
+    "img": "icons/svg/item-bag.svg",
+    "folder": "Miscellaneous weapons (GA)",
+    "system": {
+      "source": "GA p.88",
+      "xp": "800",
+      "gpValue": "5,000",
+      "category": "misc",
+      "usable": "",
+      "description": "<p>When wielded by a character proficient with the whip, this weapon strikes at +3 \"to hit\" and damage. It can also be cracked in the air to produce a deafening sound, causing all creatures under eight hit die (except the wielder) in a 20' radius to save versus spell or be deafened for 2-5 turns. The sound can be heard up to 1000' away.</p><p class=\"gh-src\">GA p.88. X.P. value 800; G.P. value 5,000. Text from the scan, with letters and numbers checked against the PDF text layer.</p>",
+      "rolls": []
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+ {
+  "name": "Flanaess, West (1983 map)",
+  "folder": "World of Greyhawk (1983)",
+  "navigation": false,
+  "width": 3107,
+  "height": 4881,
+  "padding": 0,
+  "background": {
+   "src": "modules/frpg1e-gh/maps/flanaess-west.webp"
+  },
+  "grid": {
+   "type": 0,
+   "size": 100
+  },
+  "tokenVision": false,
+  "fog": {
+   "exploration": false
+  },
+  "environment": {
+   "globalLight": {
+    "enabled": true
+   }
+  },
+  "flags": {
+   "frpg1e-gh": {
+    "source": "World of Greyhawk (1983) map sheets"
+   }
+  }
+ },
+ {
+  "name": "Flanaess, East (1983 map)",
+  "folder": "World of Greyhawk (1983)",
+  "navigation": false,
+  "width": 3647,
+  "height": 5668,
+  "padding": 0,
+  "background": {
+   "src": "modules/frpg1e-gh/maps/flanaess-east.webp"
+  },
+  "grid": {
+   "type": 0,
+   "size": 100
+  },
+  "tokenVision": false,
+  "fog": {
+   "exploration": false
+  },
+  "environment": {
+   "globalLight": {
+    "enabled": true
+   }
+  },
+  "flags": {
+   "frpg1e-gh": {
+    "source": "World of Greyhawk (1983) map sheets"
+   }
+  }
+ }
+]
