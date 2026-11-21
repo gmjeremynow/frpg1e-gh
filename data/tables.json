@@ -14895,5 +14895,1067 @@
         "img": "icons/svg/d20-black.svg"
       }
     ]
+  },
+  {
+    "name": "Greyhawk Weather: Record Highs and Lows",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.19 (optional). Shift the base temperature by the month's largest high or low adjustment: once for a record, twice for a severe record, three times for an extreme record. Roll Record Spell Duration for how long it lasts.</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Extreme record low",
+        "description": "Extreme record low",
+        "range": [
+          1,
+          1
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Severe record low",
+        "description": "Severe record low",
+        "range": [
+          2,
+          2
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Record low",
+        "description": "Record low",
+        "range": [
+          3,
+          4
+        ],
+        "weight": 2,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Normal temperatures",
+        "description": "Normal temperatures",
+        "range": [
+          5,
+          96
+        ],
+        "weight": 92,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Record high",
+        "description": "Record high",
+        "range": [
+          97,
+          98
+        ],
+        "weight": 2,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Severe record high",
+        "description": "Severe record high",
+        "range": [
+          99,
+          99
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Extreme record high",
+        "description": "Extreme record high",
+        "range": [
+          100,
+          100
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Record Spell Duration",
+    "formula": "1d20",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.19. How long a record high or low lasts.</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "1 day",
+        "description": "1 day",
+        "range": [
+          1,
+          1
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "2 days",
+        "description": "2 days",
+        "range": [
+          2,
+          3
+        ],
+        "weight": 2,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "3 days",
+        "description": "3 days",
+        "range": [
+          4,
+          10
+        ],
+        "weight": 7,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "4 days",
+        "description": "4 days",
+        "range": [
+          11,
+          14
+        ],
+        "weight": 4,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "5 days",
+        "description": "5 days",
+        "range": [
+          15,
+          17
+        ],
+        "weight": 3,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "6 days",
+        "description": "6 days",
+        "range": [
+          18,
+          19
+        ],
+        "weight": 2,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "7 days",
+        "description": "7 days",
+        "range": [
+          20,
+          20
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Precipitation Occurrence",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21. If the day does not meet the temperature requirement or the terrain forbids the type, roll again or cancel the precipitation. On 00, roll the Special Weather table for the terrain.</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Heavy blizzard (needs 10°F or colder). Continues 5%; rainbow none; not in desert. Duration 3d8 hours, wind 6d8+40 mph.",
+        "description": "Heavy blizzard (needs 10°F or colder). Continues 5%; rainbow none; not in desert. Duration 3d8 hours, wind 6d8+40 mph.",
+        "range": [
+          1,
+          2
+        ],
+        "weight": 2,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Blizzard (needs 20°F or colder). Continues 10%; rainbow none; not in desert. Duration 3d10 hours, wind 3d8+36 mph.",
+        "description": "Blizzard (needs 20°F or colder). Continues 10%; rainbow none; not in desert. Duration 3d10 hours, wind 3d8+36 mph.",
+        "range": [
+          3,
+          5
+        ],
+        "weight": 3,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Heavy snowstorm (needs 25°F or colder). Continues 20%; rainbow none. Duration 4d6 hours, wind 3d10 mph.",
+        "description": "Heavy snowstorm (needs 25°F or colder). Continues 20%; rainbow none. Duration 4d6 hours, wind 3d10 mph.",
+        "range": [
+          6,
+          10
+        ],
+        "weight": 5,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Light snowstorm (needs 35°F or colder). Continues 25%; rainbow 1%. Duration 2d6 hours, wind 4d6 mph.",
+        "description": "Light snowstorm (needs 35°F or colder). Continues 25%; rainbow 1%. Duration 2d6 hours, wind 4d6 mph.",
+        "range": [
+          11,
+          20
+        ],
+        "weight": 10,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Sleet storm (needs 35°F or colder). Continues 20%; rainbow none. Duration 1d6 hours, wind 3d10 mph.",
+        "description": "Sleet storm (needs 35°F or colder). Continues 20%; rainbow none. Duration 1d6 hours, wind 3d10 mph.",
+        "range": [
+          21,
+          25
+        ],
+        "weight": 5,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Hailstorm (needs 65°F or colder). Continues 10%; rainbow none; not in desert, dust. Duration 1d4 hours, wind 4d10 mph.",
+        "description": "Hailstorm (needs 65°F or colder). Continues 10%; rainbow none; not in desert, dust. Duration 1d4 hours, wind 4d10 mph.",
+        "range": [
+          26,
+          27
+        ],
+        "weight": 2,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Heavy fog (needs 20°F or warmer, 60°F or colder). Continues 25%; rainbow 1%; not in desert, dust. Duration 1d12 hours, wind 1d20 mph.",
+        "description": "Heavy fog (needs 20°F or warmer, 60°F or colder). Continues 25%; rainbow 1%; not in desert, dust. Duration 1d12 hours, wind 1d20 mph.",
+        "range": [
+          28,
+          30
+        ],
+        "weight": 3,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Light fog (needs 30°F or warmer, 70°F or colder). Continues 30%; rainbow 3%; not in desert. Duration 2d4 hours, wind 1d10 mph.",
+        "description": "Light fog (needs 30°F or warmer, 70°F or colder). Continues 30%; rainbow 3%; not in desert. Duration 2d4 hours, wind 1d10 mph.",
+        "range": [
+          31,
+          38
+        ],
+        "weight": 8,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Mist (needs 30°F or warmer). Continues 15%; rainbow 10%. Duration 2d6 hours, wind 1d10 mph.",
+        "description": "Mist (needs 30°F or warmer). Continues 15%; rainbow 10%. Duration 2d6 hours, wind 1d10 mph.",
+        "range": [
+          39,
+          40
+        ],
+        "weight": 2,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Drizzle (needs 25°F or warmer). Continues 20%; rainbow 5%. Duration 1d10 hours, wind 1d20 mph.",
+        "description": "Drizzle (needs 25°F or warmer). Continues 20%; rainbow 5%. Duration 1d10 hours, wind 1d20 mph.",
+        "range": [
+          41,
+          45
+        ],
+        "weight": 5,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Light rainstorm (needs 25°F or warmer). Continues 45%; rainbow 15%. Duration 1d12 hours, wind 1d20 mph.",
+        "description": "Light rainstorm (needs 25°F or warmer). Continues 45%; rainbow 15%. Duration 1d12 hours, wind 1d20 mph.",
+        "range": [
+          46,
+          60
+        ],
+        "weight": 15,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Heavy rainstorm (needs 25°F or warmer). Continues 30%; rainbow 20%. Duration 1d12 hours, wind 2d12+10 mph.",
+        "description": "Heavy rainstorm (needs 25°F or warmer). Continues 30%; rainbow 20%. Duration 1d12 hours, wind 2d12+10 mph.",
+        "range": [
+          61,
+          70
+        ],
+        "weight": 10,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Thunderstorm (needs 30°F or warmer). Continues 15%; rainbow 20%. Duration 1d4 hours, wind 4d10 mph.",
+        "description": "Thunderstorm (needs 30°F or warmer). Continues 15%; rainbow 20%. Duration 1d4 hours, wind 4d10 mph.",
+        "range": [
+          71,
+          84
+        ],
+        "weight": 14,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Tropical storm (needs 40°F or warmer). Continues 20%; rainbow 10%; not in desert, plains. Duration ½d6 days, wind 3d12+30 mph.",
+        "description": "Tropical storm (needs 40°F or warmer). Continues 20%; rainbow 10%; not in desert, plains. Duration ½d6 days, wind 3d12+30 mph.",
+        "range": [
+          85,
+          89
+        ],
+        "weight": 5,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Monsoon (needs 55°F or warmer). Continues 30%; rainbow 5%; not in desert, dust, plains. Duration 1d6+6 days, wind 6d10 mph.",
+        "description": "Monsoon (needs 55°F or warmer). Continues 30%; rainbow 5%; not in desert, dust, plains. Duration 1d6+6 days, wind 6d10 mph.",
+        "range": [
+          90,
+          94
+        ],
+        "weight": 5,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Gale (needs 40°F or warmer). Continues 15%; rainbow 10%; not in desert. Duration ½d6 days, wind 6d8+40 mph.",
+        "description": "Gale (needs 40°F or warmer). Continues 15%; rainbow 10%; not in desert. Duration ½d6 days, wind 6d8+40 mph.",
+        "range": [
+          95,
+          97
+        ],
+        "weight": 3,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Hurricane or typhoon (needs 55°F or warmer). Continues 20%; rainbow 5%; not in desert, dust. Duration ½d8 days, wind 7d10+70 mph.",
+        "description": "Hurricane or typhoon (needs 55°F or warmer). Continues 20%; rainbow 5%; not in desert, dust. Duration ½d8 days, wind 7d10+70 mph.",
+        "range": [
+          98,
+          99
+        ],
+        "weight": 2,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Special: roll the Special Weather table for the terrain. Continues 1% (if not, roll a new form of precipitation).",
+        "description": "Special: roll the Special Weather table for the terrain. Continues 1% (if not, roll a new form of precipitation).",
+        "range": [
+          100,
+          100
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Continuing Precipitation",
+    "formula": "1d10",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.20. Roll when precipitation continues past its duration.</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Up one line on the Precipitation Occurrence table",
+        "description": "Up one line on the Precipitation Occurrence table",
+        "range": [
+          1,
+          1
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "No change; roll a new duration",
+        "description": "No change; roll a new duration",
+        "range": [
+          2,
+          9
+        ],
+        "weight": 8,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Down one line on the Precipitation Occurrence table",
+        "description": "Down one line on the Precipitation Occurrence table",
+        "range": [
+          10,
+          10
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Direction",
+    "formula": "1d8",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.20. Which way something lies, such as a volcano.</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "North",
+        "description": "North",
+        "range": [
+          1,
+          1
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Northeast",
+        "description": "Northeast",
+        "range": [
+          2,
+          2
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "East",
+        "description": "East",
+        "range": [
+          3,
+          3
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Southeast",
+        "description": "Southeast",
+        "range": [
+          4,
+          4
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "South",
+        "description": "South",
+        "range": [
+          5,
+          5
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Southwest",
+        "description": "Southwest",
+        "range": [
+          6,
+          6
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "West",
+        "description": "West",
+        "range": [
+          7,
+          7
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Northwest",
+        "description": "Northwest",
+        "range": [
+          8,
+          8
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Cause of Special Weather",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21. Any special weather phenomenon has a 10% chance of a cause; roll here.</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Elemental(s) or giant(s)",
+        "description": "Elemental(s) or giant(s)",
+        "range": [
+          1,
+          30
+        ],
+        "weight": 30,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Elemental(s) under NPC control",
+        "description": "Elemental(s) under NPC control",
+        "range": [
+          31,
+          60
+        ],
+        "weight": 30,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "An NPC or monster",
+        "description": "An NPC or monster",
+        "range": [
+          61,
+          90
+        ],
+        "weight": 30,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Demons, devils, or creatures from the appropriate Elemental Plane",
+        "description": "Demons, devils, or creatures from the appropriate Elemental Plane",
+        "range": [
+          91,
+          98
+        ],
+        "weight": 8,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "A deity or the deity's servants",
+        "description": "A deity or the deity's servants",
+        "range": [
+          99,
+          99
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Two or more battling deities",
+        "description": "Two or more battling deities",
+        "range": [
+          100,
+          100
+        ],
+        "weight": 1,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (Rough terrain or hills)",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Wind storm",
+        "description": "Wind storm",
+        "range": [
+          1,
+          80
+        ],
+        "weight": 80,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Earthquake",
+        "description": "Earthquake",
+        "range": [
+          81,
+          100
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (Forest)",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Quicksand",
+        "description": "Quicksand",
+        "range": [
+          1,
+          80
+        ],
+        "weight": 80,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Earthquake",
+        "description": "Earthquake",
+        "range": [
+          81,
+          100
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (Jungle)",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Volcano",
+        "description": "Volcano",
+        "range": [
+          1,
+          5
+        ],
+        "weight": 5,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Rain forest downpour",
+        "description": "Rain forest downpour",
+        "range": [
+          6,
+          60
+        ],
+        "weight": 55,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Quicksand",
+        "description": "Quicksand",
+        "range": [
+          61,
+          80
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Earthquake",
+        "description": "Earthquake",
+        "range": [
+          81,
+          100
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (Swamp or marsh)",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Quicksand",
+        "description": "Quicksand",
+        "range": [
+          1,
+          25
+        ],
+        "weight": 25,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Sun shower",
+        "description": "Sun shower",
+        "range": [
+          26,
+          80
+        ],
+        "weight": 55,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Earthquake",
+        "description": "Earthquake",
+        "range": [
+          81,
+          100
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (Dust)",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Flash flood",
+        "description": "Flash flood",
+        "range": [
+          1,
+          40
+        ],
+        "weight": 40,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Dust storm",
+        "description": "Dust storm",
+        "range": [
+          41,
+          70
+        ],
+        "weight": 30,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Tornado",
+        "description": "Tornado",
+        "range": [
+          71,
+          85
+        ],
+        "weight": 15,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Earthquake",
+        "description": "Earthquake",
+        "range": [
+          86,
+          100
+        ],
+        "weight": 15,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (Plains)",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Tornado",
+        "description": "Tornado",
+        "range": [
+          1,
+          50
+        ],
+        "weight": 50,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Earthquake",
+        "description": "Earthquake",
+        "range": [
+          51,
+          100
+        ],
+        "weight": 50,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (Desert)",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Flash flood",
+        "description": "Flash flood",
+        "range": [
+          1,
+          25
+        ],
+        "weight": 25,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Sand storm",
+        "description": "Sand storm",
+        "range": [
+          26,
+          50
+        ],
+        "weight": 25,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Oasis",
+        "description": "Oasis",
+        "range": [
+          51,
+          65
+        ],
+        "weight": 15,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Mirage oasis",
+        "description": "Mirage oasis",
+        "range": [
+          66,
+          85
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Earthquake",
+        "description": "Earthquake",
+        "range": [
+          86,
+          100
+        ],
+        "weight": 15,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (Mountains)",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Wind storm",
+        "description": "Wind storm",
+        "range": [
+          1,
+          20
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Rock avalanche",
+        "description": "Rock avalanche",
+        "range": [
+          21,
+          50
+        ],
+        "weight": 30,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Snow avalanche",
+        "description": "Snow avalanche",
+        "range": [
+          51,
+          75
+        ],
+        "weight": 25,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Volcano",
+        "description": "Volcano",
+        "range": [
+          76,
+          80
+        ],
+        "weight": 5,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Earthquake",
+        "description": "Earthquake",
+        "range": [
+          81,
+          100
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (Seacoast (within 2 hexes of the coast))",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Earthquake",
+        "description": "Earthquake",
+        "range": [
+          1,
+          80
+        ],
+        "weight": 80,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Tsunami",
+        "description": "Tsunami",
+        "range": [
+          81,
+          94
+        ],
+        "weight": 14,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Undersea volcano",
+        "description": "Undersea volcano",
+        "range": [
+          95,
+          100
+        ],
+        "weight": 6,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
+  },
+  {
+    "name": "Greyhawk Weather: Special Weather (At sea (more than 1 hex from the coast))",
+    "formula": "1d100",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "Weather",
+    "description": "<p>Glossography p.21, Terrain Effects Table. For a 00 on Precipitation Occurrence. 10% chance of a cause (Cause of Special Weather).</p>",
+    "results": [
+      {
+        "type": "text",
+        "text": "Tsunami",
+        "description": "Tsunami",
+        "range": [
+          1,
+          20
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Undersea volcano",
+        "description": "Undersea volcano",
+        "range": [
+          21,
+          40
+        ],
+        "weight": 20,
+        "img": "icons/svg/d20-black.svg"
+      },
+      {
+        "type": "text",
+        "text": "Undersea earthquake",
+        "description": "Undersea earthquake",
+        "range": [
+          41,
+          100
+        ],
+        "weight": 60,
+        "img": "icons/svg/d20-black.svg"
+      }
+    ]
   }
 ]

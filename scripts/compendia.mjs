@@ -1,6 +1,6 @@
 /** World compendia built from the module's JSON (same approach as the system: no compiled LevelDB packs). */
 const MID = "frpg1e-gh";
-export const DATA_VERSION = "5";
+export const DATA_VERSION = "6";
 
 const PACKS = [
   { name: "gh-lore", label: "Greyhawk (books)", file: "journals.json", type: "JournalEntry", folder: d => d.folder },
@@ -9,15 +9,16 @@ const PACKS = [
   { name: "gh-monsters", label: "Greyhawk Monsters and Avatars", file: "monsters.json", type: "Actor", folder: d => d.folder },
   { name: "gh-npcs", label: "Greyhawk Personalities", file: "npcs.json", type: "Actor", folder: d => d.folder },
   { name: "gh-tables", label: "Greyhawk Tables", file: "tables.json", type: "RollTable", folder: d => d.folder },
-  { name: "gh-maps", label: "Greyhawk Maps", file: "scenes.json", type: "Scene", folder: d => d.folder }
+  { name: "gh-maps", label: "Greyhawk Maps", file: "scenes.json", type: "Scene", folder: d => d.folder },
+  { name: "gh-macros", label: "Greyhawk Macros", file: "macros.json", type: "Macro", folder: d => d.folder }
 ];
-const CLS = { Item: () => Item, Actor: () => Actor, JournalEntry: () => JournalEntry, RollTable: () => RollTable, Scene: () => Scene };
+const CLS = { Item: () => Item, Actor: () => Actor, JournalEntry: () => JournalEntry, RollTable: () => RollTable, Scene: () => Scene, Macro: () => Macro };
 
 export async function offerImport() {
   if (game.settings.get(MID, "compendiaVersion") === DATA_VERSION) return;
   const ok = await foundry.applications.api.DialogV2.confirm({
     window: { title: "Greyhawk: Compendia" },
-    content: "<p>Create the Greyhawk world compendia (the books by chapter, spells, magic items, monsters and avatars, personalities, roll tables and the Flanaess maps)?</p><p class=\"hint\">You can do this later from Game Settings → Configure Settings → Greyhawk.</p>",
+    content: "<p>Create the Greyhawk world compendia (the books by chapter, spells, magic items, monsters and avatars, personalities, roll tables, the Flanaess maps and the weather macro)?</p><p class=\"hint\">You can do this later from Game Settings → Configure Settings → Greyhawk.</p>",
     rejectClose: false
   });
   if (ok) await importCompendia();

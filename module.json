@@ -1,8 +1,8 @@
 {
   "id": "frpg1e-gh",
   "title": "Greyhawk for 1e FRPG",
-  "description": "The World of Greyhawk (1983 Guide and Glossography) and Greyhawk Adventures for 1e FRPG (Table Edition): deity clerics on the character sheet, a Greyhawk tab, the books as clean text, spells, magic items, monsters, avatars, personalities, encounter and birthplace tables, and the Flanaess maps. An optional add-on; turn it on or off in Manage Modules. Built for a private table.",
-  "version": "0.1.4",
+  "description": "The World of Greyhawk (1983 Guide and Glossography) and Greyhawk Adventures for 1e FRPG (Table Edition): deity clerics on the character sheet, a Greyhawk tab, the books as clean text, spells, magic items, monsters, avatars, personalities, encounter, birthplace and weather tables, a weather generator, and the Flanaess maps. An optional add-on; turn it on or off in Manage Modules. Built for a private table.",
+  "version": "0.1.5",
   "compatibility": {
     "minimum": "14",
     "verified": "14"

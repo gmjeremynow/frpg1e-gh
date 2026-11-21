@@ -7,6 +7,7 @@ import { DEITIES } from "./deities.mjs";
 import { clericClasses, GH_CLASS_KEYS } from "./classes.mjs";
 import { renderGHTab, rollGaze } from "./sheet-tab.mjs";
 import { offerImport, importCompendia } from "./compendia.mjs";
+import { weatherDialog, generate as generateWeather } from "./weather.mjs";
 
 export const MID = "frpg1e-gh";
 let API = null;
@@ -22,9 +23,10 @@ Hooks.once("init", () => {
     hint: "Takes the plain PHB cleric out of the class list, leaving the Greyhawk Adventures deity clerics. Characters already using it keep working.",
     onChange: v => applyLists(v), requiresReload: false });
   game.settings.register(MID, "compendiaVersion", { scope: "world", config: false, type: String, default: "" });
+  game.settings.register(MID, "weatherLast", { scope: "client", config: false, type: Object, default: {} });
   game.settings.registerMenu(MID, "rebuild", { name: "Greyhawk compendia", label: "Rebuild Greyhawk compendia", icon: "fa-solid fa-book",
     type: class extends foundry.applications.api.ApplicationV2 { render() { importCompendia({ confirm: true }); return this; } }, restricted: true });
-  game.greyhawk = { importCompendia, DEITIES, rollGaze };
+  game.greyhawk = { importCompendia, DEITIES, rollGaze, weather: weatherDialog, generateWeather };
 });
 
 Hooks.once("setup", () => applyLists(game.settings.get(MID, "hideCleric")));

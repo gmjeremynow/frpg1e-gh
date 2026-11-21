@@ -19,3 +19,13 @@ table.gh-ref th, table.gh-ref td { padding: 1px 4px; border-bottom: 1px solid rg
 .gh-list { width: 100%; border-collapse: collapse; margin: 4px 0 10px; font-size: 0.95em; }
 .gh-list th { text-align: left; font-weight: bold; border-bottom: 1px solid #b8a98a; padding: 2px 6px; }
 .gh-list td { padding: 2px 6px; border-bottom: 1px solid #ddd3bd; vertical-align: top; }
+
+/* weather report */
+.gh-wx .gh-wx-day { border-top: 1px solid var(--color-border-light-2, #bbb); padding-top: 4px; margin-top: 4px; }
+.gh-wx h4 { margin: 2px 0; }
+.gh-wx p { margin: 3px 0; }
+.gh-wx .gh-wx-ev { margin: 4px 0; }
+.gh-wx table.gh-wx-t { width: 100%; font-size: 0.9em; margin: 2px 0; }
+.gh-wx table.gh-wx-t th { text-align: left; width: 32%; font-weight: normal; opacity: 0.8; }
+.gh-wx .gh-wx-note { font-size: 0.85em; opacity: 0.8; }
+.gh-wx-form .hint { flex-basis: 100%; }

@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Greyhawk Weather",
+    "type": "script",
+    "img": "icons/svg/d20-black.svg",
+    "command": "game.greyhawk.weather();",
+    "folder": null
+  }
+]
