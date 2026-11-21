@@ -93,7 +93,7 @@ function zeroLevelBox(actor, flags) {
       <label><span>Good/evil score</span><input type="number" data-gh-zero="good" value="${z.good ?? 10}"></label>
       <span class="gh-left">Tendency: <strong>${ethics === "Neutral" && morality === "Neutral" ? "True neutral" : `${ethics} ${morality}`}</strong></span>
     </div>
-    <p class="hint">Start with every ability at 3 and 3 hit points. Once a game week, 1 to 8 AP may raise one ability or the hit points (never above the racial maximum, 18, or 18 hit points; no exceptional strength). Zero-level characters gain no experience, and spells and magic treat them as true neutral; the DM moves the two alignment scores (1-20, 10 in the middle; 5 or less and 15 or more set the tendency). Hit points are rerolled on reaching 1st level (GA p.117-118). The rest of the appendix (abilities, proficiencies, joining a class) is in the GA journal.</p>
+    <p class="hint">Start with every ability at 3 and 3 hit points. Once a game week, 1 to 8 AP may raise one ability or the hit points (never above the racial maximum, 18, or 18 hit points; no exceptional strength). Zero-level characters gain no experience, and spells and magic treat them as true neutral; the DM moves the two alignment scores (1-20, 10 in the middle; 5 or less and 15 or more set the tendency). Hit points are rerolled on reaching 1st level (GA p.117-118). The rest of the appendix (skills, proficiencies, joining a class) is in the Zero-Level Characters journal (Running the Game folder).</p>
     <button type="button" class="gh-zero-off">Stop tracking</button>`);
 }
 

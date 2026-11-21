@@ -16,7 +16,7 @@ Put the `frpg1e-gh` folder in `Data/modules` (or install the zip), switch it on 
   - St. Cuthbert's order and Ehlonna's plant ward, and a roll for Ralishaz's sleep gaze.
   - For any character: a zero-level tracker (GA Appendix 1) with the aptitude-point roll and the two alignment scores.
 - **Compendia:**
-  - Greyhawk (books): the Guide, the Glossography and Greyhawk Adventures by chapter, one page per state, deity, personality, place and adventure (the Guide and Glossography deity chapters too, from 0.1.2), plus the Greyhawk Rules Summary (deity clerics, calendar, settlement populations, rates of travel, patrols and high-level NPCs).
+  - Greyhawk Lore: the Guide, the Glossography and Greyhawk Adventures rewritten in plain words and arranged by topic (0.2.0), in eight folders: Running the Game (using the module, the source books, settlements and travel, patrols and armed parties, birthplaces, the six Glossography scenarios with module locations, zero-level characters, and the six GA adventures), The World (Oerth, calendar, climate, trees, weather), History and Peoples, Lands of the Flanaess (one page per state), Geography (with the GA wonders), Deities, Heroes and Personages, and Compendium Guides.
   - Greyhawk Spells: the 12 deity cleric spells and the 106 wizards' spells of Greyhawk Adventures, under generic names with the wizard's name dropped (e.g. Feeling Fingers, Private Sanctum, Steaming Sphere), as the system does. Folders are by theme: hand and force, travel and utility, protection and guardian, light and darkness, sphere and screen, sound and music, mind, and warrior spells.
   - Greyhawk Magic Items: the 97 items of Greyhawk Adventures.
   - Greyhawk Monsters and Avatars: the 13 monsters and the 11 avatars.
@@ -27,6 +27,7 @@ Put the `frpg1e-gh` folder in `Data/modules` (or install the zip), switch it on 
 
 ## Choices and limits
 
+- **Plain-words rewrite (0.2.0):** every journal page, and every description in the spell, magic item, monster and personality compendia, is a full paraphrase of the books rather than their text. Statistics, dice, tables and setting names are kept as printed; spells and items keep their generic names. Each page names the book pages it draws on. Apparent misprints are marked ("printed X"), and where the books disagree or a printed passage is garbled, the page says so instead of guessing. While rewriting, several gaps were filled from the page images: the GA Learning Table, the experience prices for auxiliary abilities and the zero-level honor awards; the Glossography scenario headings, the Suloise tunnel length and the hex numbers of modules A1-A4; Piotr Prestochango's class ("I 5"); "Space Chill" for Celestian's avatar; and 1d12 hit points restored by Beneficent Polymorph and the Paints of Blackmoor. All four images are kept.
 - **Greyhawk Adventures text:** taken from the scan and checked against the PDF's own text layer, which is a second OCR stored in a shifted font encoding. Where the two readings disagree, the page image decides (0.1.3).
 - **Guide and Glossography text:** these PDFs have no such layer. Their text comes from the scan, with the numbers cross-checked against the PDF's own OCR; the two readings disagreed on fewer than 2% of numbers, and those were reviewed.
 - **Numbers on the sheet and in the compendia:** every statistic, encounter range and birthplace range was checked against the page images.
@@ -47,4 +48,4 @@ Put the `frpg1e-gh` folder in `Data/modules` (or install the zip), switch it on 
 
 ## Rebuilding the data
 
-The scripts in `build/` read the OCR of the page scans and the GA text layer (not included) and write `data/`. Run `build_all.py`.
+The scripts in `build/` read the OCR of the page scans and the GA text layer (not included) and write `data/`. Run `build_all.py`. Since 0.2.0 the journal pages and compendium descriptions in `data/` are the plain-words rewrite and are not produced by these scripts; running them would bring back the book text.

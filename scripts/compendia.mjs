@@ -1,9 +1,9 @@
 /** World compendia built from the module's JSON (same approach as the system: no compiled LevelDB packs). */
 const MID = "frpg1e-gh";
-export const DATA_VERSION = "6";
+export const DATA_VERSION = "7";
 
 const PACKS = [
-  { name: "gh-lore", label: "Greyhawk (books)", file: "journals.json", type: "JournalEntry", folder: d => d.folder },
+  { name: "gh-lore", label: "Greyhawk Lore", file: "journals.json", type: "JournalEntry", folder: d => d.folder },
   { name: "gh-spells", label: "Greyhawk Spells", file: "spells.json", type: "Item", folder: d => d.folder },
   { name: "gh-magic", label: "Greyhawk Magic Items", file: "magic-items.json", type: "Item", folder: d => d.folder },
   { name: "gh-monsters", label: "Greyhawk Monsters and Avatars", file: "monsters.json", type: "Actor", folder: d => d.folder },
