@@ -4,7 +4,17 @@ An optional add-on for 1e FRPG (Table Edition), built from the World of Greyhawk
 
 ## Install
 
-Put the `frpg1e-gh` folder in `Data/modules` (or install the zip), switch it on in the world, and accept the offer to build the Greyhawk compendia. They can be rebuilt any time from *Configure Settings → Greyhawk → Rebuild Greyhawk compendia*.
+Needs the 1e FRPG (Table Edition) system, 0.32.0 or later, on Foundry V14.
+
+**From a manifest URL:** in Foundry's setup screen, go to Add-on Modules → Install Module and paste:
+
+```
+https://github.com/gmjeremynow/frpg1e-gh/releases/latest/download/module.json
+```
+
+**By hand:** unzip `frpg1e-gh.zip` so the folder lands at `Data/modules/frpg1e-gh/`.
+
+Then switch it on in the world and accept the offer to build the Greyhawk compendia. They can be rebuilt any time from *Configure Settings → Greyhawk → Rebuild Greyhawk compendia*.
 
 ## What it adds
 

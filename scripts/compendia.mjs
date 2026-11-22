@@ -18,7 +18,7 @@ export async function offerImport() {
   if (game.settings.get(MID, "compendiaVersion") === DATA_VERSION) return;
   const ok = await foundry.applications.api.DialogV2.confirm({
     window: { title: "Greyhawk: Compendia" },
-    content: "<p>Create the Greyhawk world compendia (the books by chapter, spells, magic items, monsters and avatars, personalities, roll tables, the Flanaess maps and the weather macro)?</p><p class=\"hint\">You can do this later from Game Settings → Configure Settings → Greyhawk.</p>",
+    content: "<p>Create the Greyhawk world compendia (the Greyhawk Lore journals, spells, magic items, monsters and avatars, personalities, roll tables, the Flanaess maps and the weather macro)?</p><p class=\"hint\">You can do this later from Game Settings → Configure Settings → Greyhawk.</p>",
     rejectClose: false
   });
   if (ok) await importCompendia();
